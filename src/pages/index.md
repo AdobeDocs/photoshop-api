@@ -2,13 +2,11 @@
 title: Photoshop API 
 ---
  
-<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)"/>
 
-![Creative Cloud banner](images/hero.png)
+![](images/Adobe_io_illustration_banner_3x.png)
 
 # Add the magic of Photoshop to your website or workflow
-
-![Creative Cloud icon](https://adobe.io/shared/icons/ps_appicon_64.svg)
 
 Our Photoshop API and extensions automate time-consuming design tasks, saving you hours, so your team can get back to doing what they do best: being creative. 
 
