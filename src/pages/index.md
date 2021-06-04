@@ -101,7 +101,7 @@ Easily remove the subject from the background of any photo using Adobe Sensei
 
 Create custom filters or use stock presets to enhance thousands of images at once with our Presets API
 
-* [Try demo](demo.md?ref=presets)
+* [Try demo](demo.md?ref=preset)
 
 
 
