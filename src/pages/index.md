@@ -83,7 +83,7 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 
 
-<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
 
 ![](images/image-cutout.png)
 
@@ -91,9 +91,11 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 Easily remove the subject from the background of any photo using Adobe Sensei
 
+* [Try demo](demo.md?ref=imagecutout)
 
 
-<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+
+<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
 
 ![](images/presets.png)
 
@@ -101,9 +103,11 @@ Easily remove the subject from the background of any photo using Adobe Sensei
 
 Create custom filters or use stock presets to enhance thousands of images at once with our Presets API
 
+* [Try demo](demo.md?ref=presets)
 
 
-<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+
+<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
 
 ![](images/auto-tone.png)
 
@@ -111,9 +115,11 @@ Create custom filters or use stock presets to enhance thousands of images at onc
 
 Automatically enhances photos to perfection using Adobe Sensei, our AI/ML platform
 
+* [Try demo](demo.md?ref=autotone)
 
 
-<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+
+<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
 
 ![](images/smart-object.png)
 
@@ -121,12 +127,12 @@ Automatically enhances photos to perfection using Adobe Sensei, our AI/ML platfo
 
 Manipulate smart objects and create stunning visuals using our Smart Object API
 
+* [Try demo](demo.md?ref=smartobject)
 
 
 
 
-
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
 ![](images/text-layer.png)
 
@@ -134,15 +140,19 @@ Manipulate smart objects and create stunning visuals using our Smart Object API
 
 Edit and manipulate text without limits when utilizing our Text Layer API
 
+* [Try demo](demo.md?ref=textlayer)
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
 ![](images/ad-reflow.png)
 
 ### Banner Ad Reflow
 
 Our Banner Ad Reflow Extension allows you to create multiple banner ads from one design.
+
+* [Try demo](demo.md?ref=bannerreflow)
 
 
 
@@ -154,14 +164,22 @@ Our Banner Ad Reflow Extension allows you to create multiple banner ads from one
 
 Automate entire workflows using Photoshop actions and scale creativity by running them in the cloud.
 
-* [See all features in action](demo.md?ref=psactions)
+* [Try demo](demo.md?ref=psactions)
+
+
+
+<TextBlock slots="heading, buttons" theme="light" isCentered />
+
+### See all features in action
+
+* [Try demo](demo.md?ref=home)
 
 
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" />
 
-![](images/banner.png)
+![](images/Adobe_io_illustration_banner_3x.png)
 
 ## Adobe Photoshop API magic, now available in the cloud 
 
