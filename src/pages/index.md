@@ -1,109 +1,171 @@
 ---
-title: Home - Project Firefly
-description: This is the Project Firefly homepage  
+title: Photoshop API 
 ---
  
-<Hero slots="image, heading, text, buttons" variant="halfwidth"/>
+<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
-![IO background](images/io-bg.png)
+![Creative Cloud banner](images/hero.png)
 
-# Everything you need to build a Cloud Native Adobe App
+# Add the magic of Photoshop to your website or workflow
 
-Project Firefly is a complete framework to build and deploy custom web apps in minutes on our serverless platform.
+![Creative Cloud icon](https://adobe.io/shared/icons/ps_appicon_64.svg)
 
-* [Sign up for a preview](https://adobe.io) 
+Our Photoshop API and extensions automate time-consuming design tasks, saving you hours, so your team can get back to doing what they do best: being creative. 
+
+* [Sign up](signup.md?ref=signup)
+* [Try demo](demo.md)
+
+
+<TextBlock slots="image, heading, text" theme="lightest" />
+
+![](images/save-time-and-money.png)
+
+### Save time and money
+
+Our Photoshop APIs deliver high-fidelity, low-cost solutions that scale. Get direct access to the engine powering the industry’s most intelligent and scalable photo editing workflows at a fraction of the cost.
+
+
+<TextBlock slots="heading, text, image" theme="lightest" />
+
+### Rediscover your creative freedom
+
+From dozens of image cut-outs in the blink of an eye, to perfectly positioned ad copy in a dozen different dimensions and formats, to custom filters and presets for batches of images. What took hours, now take seconds, so you can be your best, creative self.
+
+![](images/creative-freedom.png)
+
+
+<TextBlock slots="image, heading, text" theme="lightest" />
+
+![](images/scalable-solutions.png)
+
+### Build scalable solutions
+
+Photoshop and Lightroom’s machine learning tools and services leverage the Adobe Sensei platform. Access our APIs to supercharge any photo editing idea you can imagine, at scale!
+
+
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered />
+
+### Decision Maker
+
+Save time and money and supercharge your creative teams. Leverage the power of Lightroom, Photoshop, and Adobe Sensei APIs to reduce production costs, increase fidelity on output, and empower your creative team to do what they do best: create.
+
+* [See pricing](pricing.md)
+
+
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered />
+
+### Creative
+
+Pull together Photoshop, Lightroom and Adobe Sensei into one place. Reduce time spent in each app, freeing you up for more creative time.
+
+* [Try demo](demo.md)
+
+
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered />
+
+### Developer
+
+Quickly create apps that scale with clean documentation, sample apps, and code snippets to get you started.
+
+* [View documentation](https://github.com/AdobeDocs/photoshop-api-docs)
+
+
+
+<TitleBlock slots="heading, text" theme="light" />
+
+### Adobe Photoshop API magic, now available in the cloud
+
+The creative world runs on Photoshop. Now you can harness the power of the world’s best imaging and graphic design software to transform your business via a flexible API and extensions built on 30 years of industry-defining innovation.
+
+
+
+
+<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+
+![](images/image-cutout.png)
+
+### Image Cutout
+
+Easily remove the subject from the background of any photo using Adobe Sensei
+
+
+
+<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+
+![](images/presets.png)
+
+### Presets
+
+Create custom filters or use stock presets to enhance thousands of images at once with our Presets API
+
+
+
+<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+
+![](images/auto-tone.png)
+
+### Auto Tone
+
+Automatically enhances photos to perfection using Adobe Sensei, our AI/ML platform
+
+
+
+<TextBlock slots="image, heading, text" width="25%" theme="light" isCentered />
+
+![](images/smart-object.png)
+
+### Smart Object
+
+Manipulate smart objects and create stunning visuals using our Smart Object API
+
+
 
 
 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![icon 1](images/icon1.png)
+![](images/text-layer.png)
 
-### Your app, our infrastructure
+### Text Layer
 
-Build secure, scalable apps with easy integrations and we'll take care of the storage and hosting.
-
-
-
-
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
-
-![icon 2](images/icon2.png)
-
-### Fast UI design
-
-UI design is made easy with [Spectrum components](https://spectrum.adobe.com) that match the look and feel of Adobe's products.  
-
+Edit and manipulate text without limits when utilizing our Text Layer API
 
 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![icon 3](images/icon3.png)
+![](images/ad-reflow.png)
 
-### Secure and easy to manage
+### Banner Ad Reflow
 
-Get API authorization and user access control out of the box.
-
-
-
-
-<TextBlock slots="heading, text, video" isCentered />
-
-### Introducing Project Firefly
-
-Everything you need to build a custom cloud app to meet your business needs
-
-[Firefly video introduction](https://www.youtube.com/watch?v=mkgpeWbHrjA)
+Our Banner Ad Reflow Extension allows you to create multiple banner ads from one design.
 
 
 
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
-<TextBlock slots="image, heading, text, links" />
+![](images/ps-actions.png)
 
-![Stock](images/stock.png)
+### Photoshop Actions
 
-### Access tools and APIs
+Automate entire workflows using Photoshop actions and scale creativity by running them in the cloud.
 
-Create and manage projects while accessing all the tools and APIs you need to create plugins and integrations.
-
-* ![Adobe](images/adobe.png) [Adobe Developer Console](https://console.adobe.io)
-
-
-
-<TextBlock slots="heading, text, links, image" /> 
-
-### Build custom apps
-
-Builds custom apps that interact with core Adobe services, and automate processes with event-based integrations. 
-Access authentication services, end-user access controls, the ability to publish/consume custom events, data storage, CI/CD pipelines.
-
-* ![Adobe](images/adobe.png) [Adobe SDK + Services](https://www.adobe.io/apis.html)
-
-![Stock](images/stock.png)
+* [See all features in action](demo.md?ref=psactions)
 
 
 
-<TextBlock slots="image, heading, text, links" />
 
-![Stock](images/stock.png)
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-### Test and publish your app
+![](images/banner.png)
 
-Submit your custom app for review. Admins can view, test and approve, and publish apps that users access in Adobe Experience Cloud.
+## Adobe Photoshop API magic, now available in the cloud 
 
-* ![Adobe](images/adobe.png) [Adobe Exchange](https://exchange.adobe.com/)  
-* ![Adobe Experience Cloud](images/adobe-experiencecloud.png) [Adobe Experience Cloud](https://experiencecloud.adobe.com/)  
+Sign up now to get access to the world’s standard in game-changing imaging technology that can help you redefine how creative works gets done.
 
-
-
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
-
-![CC banner](images/io-banner.png)
-
-## Join our free developer preview  
-
-Start building your custom cloud native Adobe app by signing up our free developer preview. Your feedback is critical for shaping the future of Project Firefly.
- 
-* [Sign up for a preview](https://adobe.io)
+* [Sign up](signup.md?ref=signup)
+* [Try demo](demo.md)

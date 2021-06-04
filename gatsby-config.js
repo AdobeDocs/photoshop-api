@@ -14,14 +14,27 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
-        title: 'Project Firefly',
-        path: '/'
+        title: 'Photoshop API',
+        path: 'index.md'
+      },
+      {
+        title: 'Demo',
+        path: 'demo.md'
+      },
+      {
+        title: 'Pricing',
+        path: 'pricing.md'
+      },
+      {
+        title: 'FAQ',
+        path: 'faq.md'
+      },
+      {
+        title: 'Sign up',
+        path: 'signup.md?ref=signup'
       }
-    ],
-    docs: {
-      path: 'https://www.adobe.io/content/udp/en/apis/experienceplatform/project-firefly/docs.html'
-    }
+    ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || '/dev-site-product-template/'
+  pathPrefix: process.env.PATH_PREFIX || '/photoshop/api/'
 };
