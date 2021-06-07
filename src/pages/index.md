@@ -183,5 +183,5 @@ Automate entire workflows using Photoshop actions and scale creativity by runnin
 
 Sign up now to get access to the world’s standard in game-changing imaging technology that can help you redefine how creative works gets done.
 
-* [Sign up](signup.md?ref=signup)
+* [Sign up](https://www.adobe.com/go/photoshopapi_signup)
 * [Try demo](demo.md)
