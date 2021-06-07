@@ -10,7 +10,7 @@ title: Photoshop API
 
 Our Photoshop API and extensions automate time-consuming design tasks, saving you hours, so your team can get back to doing what they do best: being creative. 
 
-* [Sign up](signup.md?ref=signup)
+* [Sign up](https://www.adobe.com/go/photoshopapi_signup)
 * [Try demo](demo.md)
 
 
