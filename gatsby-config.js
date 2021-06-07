@@ -31,7 +31,7 @@ module.exports = {
       },
       {
         title: 'Sign up',
-        path: 'signup.md?ref=signup'
+        path: 'https://www.adobe.com/go/photoshopapi_signup'
       }
     ]
   },
