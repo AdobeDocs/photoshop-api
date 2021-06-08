@@ -39,7 +39,7 @@ We are currently in invitation only beta, you will be notified once we have pric
 
 ## Will I be charged for using this API?
 
-The invitation only beta provides you with free access to our API in exchange for feedback. You do not need a credit card to start and you will not be billed for usage. You will have an option to upgrade to a paid account once we are out of beta mode. Please refer to the [pre-release](https://www.adobe-prerelease.com/faq/clkn/https/adobe.ly/2AqgREW) agreement for terms of usage.
+The invitation only beta provides you with free access to our API in exchange for feedback. You do not need a credit card to start and you will not be billed for usage. You will have an option to upgrade to a paid account once we are out of beta mode. Please refer to the [pre-release](https://assets.adobe.com/public/2130003b-3cfe-4db1-790c-1f4a2bfcf5ad?x_product=cc-slack/1.5.1) agreement for terms of usage.
 
 
 
