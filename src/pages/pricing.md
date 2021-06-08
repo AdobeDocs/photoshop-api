@@ -1,4 +1,10 @@
-<Hero slots="image, heading, text" variant="fullwidth" background="rgb(12, 50, 63)"/>
+---
+title: Photoshop API Pricing 
+---
+
+import '../customizations/index.css'
+
+<Hero class="custom-height" slots="image, heading, text" variant="fullwidth" background="rgb(12, 50, 63)"/>
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
@@ -16,4 +22,4 @@ Apply to join our invite only beta program and help us make Photoshop API better
 By beta testing you'll become an important part of the API development.<br/>
 Your participation and feedback will help us release a better version of the service.
 
-* [Sign up](https://www.adobe.com/go/photoshopapi_signup) 
+* [Sign up](https://www.adobe.com/go/photoshopapi_signup?aio_internal) 

@@ -1,4 +1,4 @@
 ---
-title: Demo
+title: Photoshop API Demo
 frameSrc: https://easybake-stage.adobedice.com?ref=home
 ---
