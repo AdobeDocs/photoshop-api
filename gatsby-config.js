@@ -31,7 +31,7 @@ module.exports = {
       },
       {
         title: 'Get Started',
-        path: 'https://www.adobe.com/go/photoshopapi_signup?aio_internal'
+        path: 'signup.md?ref=signup'
       }
     ]
   },
