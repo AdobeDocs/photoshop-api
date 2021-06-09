@@ -30,8 +30,8 @@ module.exports = {
         path: 'faq.md'
       },
       {
-        title: 'Sign up',
-        path: 'https://www.adobe.com/go/photoshopapi_signup?aio_internal'
+        title: 'Get Started',
+        path: 'signup.md?ref=signup'
       }
     ]
   },

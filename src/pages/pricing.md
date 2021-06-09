@@ -22,4 +22,4 @@ Apply to join our invite only beta program and help us make Photoshop API better
 By beta testing you'll become an important part of the API development.<br/>
 Your participation and feedback will help us release a better version of the service.
 
-* [Sign up](https://www.adobe.com/go/photoshopapi_signup?aio_internal) 
+* [Get Started](../signup/?ref=signup)

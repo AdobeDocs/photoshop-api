@@ -1,4 +1,4 @@
 ---
-title: Photoshop API Sign Up
-frameSrc: https://easybake-stage.adobedice.com?ref=signup
+title: Photoshop API Get Started
+frameSrc: https://easybake.adobedice.com?ref=signup
 ---
