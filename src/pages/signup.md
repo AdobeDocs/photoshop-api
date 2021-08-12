@@ -10,5 +10,5 @@ keywords:
   - C++
   - Scripting
 title: Photoshop API Get Started
-frameSrc: https://easybake.adobedice.com?ref=signup
+frameSrc: /redirect.html?ref=signup
 ---
