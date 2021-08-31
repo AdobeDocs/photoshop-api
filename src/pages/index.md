@@ -78,7 +78,7 @@ Pull together Photoshop, Lightroom and Adobe Sensei into one place. Reduce time 
 
 Quickly create apps that scale with clean documentation, sample apps, and code snippets to get you started.
 
-* [View documentation](https://github.com/AdobeDocs/photoshop-api-docs-pre-release)
+* [View documentation](https://www.adobe.com/go/photoshop-api-docs-home)
 
 
 
