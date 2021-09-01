@@ -30,14 +30,14 @@ module.exports = {
         path: 'faq.md'
       },
       {
-        title: 'Documentation',
-        path: 'https://www.adobe.com/go/photoshop-api-docs-home'
-      },
-      {
         title: 'Get Started',
         path: 'signup.md?ref=signup'
       }
-    ]
+    ],
+    docs: {
+      title: 'View Docs',
+      path: 'https://www.adobe.com/go/photoshop-api-docs-home'
+    }
   },
   plugins: [`@adobe/gatsby-theme-aio`],
   pathPrefix: process.env.PATH_PREFIX || '/photoshop/api/'
