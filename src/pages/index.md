@@ -91,7 +91,7 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
 ![](images/image-cutout.png)
 
@@ -103,7 +103,7 @@ Easily remove the subject from the background of any photo using Adobe Sensei
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
 ![](images/presets.png)
 
@@ -115,7 +115,7 @@ Create custom filters or use stock presets to enhance thousands of images at onc
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
 ![](images/auto-tone.png)
 
@@ -127,7 +127,7 @@ Automatically enhances photos to perfection using Adobe Sensei, our AI/ML platfo
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="25%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
 ![](images/smart-object.png)
 
@@ -149,18 +149,6 @@ Manipulate smart objects and create stunning visuals using our Smart Object API
 Edit and manipulate text without limits when utilizing our Text Layer API
 
 * [Try demo](demo.md?ref=textlayer)
-
-
-
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
-
-![](images/ad-reflow.png)
-
-### Banner Ad Reflow
-
-Our Banner Ad Reflow Extension allows you to create multiple banner ads from one design.
-
-* [Try demo](demo.md?ref=bannerreflow)
 
 
 
