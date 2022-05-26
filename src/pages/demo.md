@@ -10,5 +10,5 @@ keywords:
   - C++
   - Scripting
 title: Photoshop API Demo
-frameSrc: https://easybake.adobedice.com?ref=home
+frameSrc: https://easybake-stage.adobedice.com?ref=home
 ---
