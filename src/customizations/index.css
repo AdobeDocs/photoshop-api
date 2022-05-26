@@ -2,6 +2,25 @@
   height: 350px !important;
 }
 
-.custom-text-alignment {
+.custom-text {
   text-align: left !important;
+  align-items: left !important;
+}
+
+.custom-text-sub {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.custom-text ul {
+  padding-top: 20px;
+  padding-left: 20px;
+  list-style: none;
+}
+.custom-text li { margin-bottom: 12px; }
+.custom-text li:before {
+  content: '\2714\0020';
+  color: #009966;
+  margin:0 5px 0 -15px;
 }
