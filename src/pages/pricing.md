@@ -26,48 +26,57 @@ Flexible options to suit your needs
 
 <TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
 
-## Free trial / Beta
+## Free trial
 
-Give a try for free <br /><br />
+$0, no commitment<br /><br />
 
-<div class="custom-text-sub">$0</div>
+<div class="custom-text-sub"></div>
 
 * [Get Started](../signup/?ref=signup)
 
-- Full access to all Photoshop services
-- Beta test API
-- Provide feedback
+- Free trial usage up to 5,000 API calls
+- Trial access only: no production usage
+- Lowest level queuing for API traffic
+- Tech Support: 72 hours turnaround time on technical issues
 
 <TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
 
-## Pay as you go
+## SMB/Individual Developer
 
-Great for small projects<br /><br />
+$0.05 per API call<br /><br />
 
-<div class="custom-text-sub">$0.05 per API call</div>
+<div class="custom-text-sub"></div>
 
 * [Subscribe on AWS](https://aws.amazon.com/marketplace/pp/prodview-buj47owc7mnls?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
 
-- Great for small projects. Only available in US
-- Full access to all Photoshop services
-- No prepaid fees or commitment
-- Pay only for what you use
-- Easily manage subscription through AWS
+- Up to 1 million API calls per year
+- One credential per paid account
+- Pay as you go billing
+- Billing and analytics provided through AWS Marketplace account
+- Higher level priority queuing for API traffic
+- Tech Support: 24-48 hour SLA via online ticketing system
+- Full production feature access
 
 <TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
 
-## Volume pricing
+## Enterprise
 
-Built for large organizations<br /><br />
+Custom pricing<br /><br />
 
-<div class="custom-text-sub">Custom pricing</div>
+<div class="custom-text-sub"></div>
 
 * [Contact sales](../signup/?ref=signup)
 
-- Full access to all Photoshop services
-- Volume and multi-product bundle discounts
-- Discounts for existing customer agreements & custom options
-- Commitment on use required
+- For use cases of 1M or greater API calls per year
+- Admin console supporting multiple credentials per organization
+- Annual up-front payment
+- Volume discounts
+- Highest level priority queuing for API traffic
+- Billing and analytics directly through Adobe
+- Tech Support: 24 hour SLA via online ticketing system
+- Concierge Level Support: Dedicated account manager
+- Access to technical consultations to help you build your solution
+- Full production feature and exclusive beta early access
 
 <TextBlock slots="heading, text, buttons" theme="dark" isCentered/>
 

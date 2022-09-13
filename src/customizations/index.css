@@ -7,10 +7,12 @@
   align-items: left !important;
 }
 
+.custom-text div {
+  max-width: 500px;
+}
+
 .custom-text-sub {
-  font-size: 20px;
-  font-weight: bold;
-  padding-bottom: 20px;
+  padding-bottom: -20px;
 }
 
 .custom-text ul {
