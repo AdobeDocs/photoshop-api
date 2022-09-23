@@ -43,7 +43,7 @@ $0, no commitment<br /><br />
 
 ## SMB/Individual Developer
 
-$0.05 per API call<br /><br />
+$0.10 per API call<br /><br />
 
 <div class="custom-text-sub"></div>
 
@@ -55,7 +55,7 @@ $0.05 per API call<br /><br />
 - Billing and analytics provided through AWS Marketplace account
 - Higher level priority queuing for API traffic
 - Tech Support: 24-48 hour SLA via online ticketing system
-- Full production feature access
+- Production level access
 
 <TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
 
@@ -74,7 +74,7 @@ Custom pricing<br /><br />
 - Highest level priority queuing for API traffic
 - Billing and analytics directly through Adobe
 - Tech Support: 24 hour SLA via online ticketing system
-- Concierge Level Support: Dedicated account manager
+- Enterprise level assistance and priority technical support
 - Access to technical consultations to help you build your solution
 - Full production feature and exclusive beta early access
 
