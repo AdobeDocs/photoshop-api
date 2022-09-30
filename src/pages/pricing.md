@@ -67,7 +67,7 @@ Custom pricing<br /><br />
 
 * [Contact sales](../signup/?ref=signup)
 
-- For use cases of 1M or greater API calls per year
+- For use cases of 500K or greater API calls per year
 - Admin console supporting multiple credentials per organization
 - Annual up-front payment
 - Volume discounts
@@ -76,7 +76,7 @@ Custom pricing<br /><br />
 - Tech Support: 24 hour SLA via online ticketing system
 - Enterprise level assistance and priority technical support
 - Access to technical consultations to help you build your solution
-- Full production feature and exclusive beta early access
+- Full production feature access
 
 <TextBlock slots="heading, text, buttons" theme="dark" isCentered/>
 
