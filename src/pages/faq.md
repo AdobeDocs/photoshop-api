@@ -41,7 +41,7 @@ You can retrieve and store files using S3 from Amazon Web Services, Adobe Creati
 
 ## Is all of Photoshop available? When do you expect to roll out features like gaussian blur or content aware fill?
 
-Not yet. The prerelease will incorporate new features as they are added to the API. For now, please refer to the documentation for a comprehensive list of available features.
+Not yet. For now, please refer to the documentation for a comprehensive list of available features.
 
 
 
