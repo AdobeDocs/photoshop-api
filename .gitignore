@@ -9,3 +9,4 @@ yarn-error.log
 .env.prod
 .env.stage
 .vscode
+.DS_Store
