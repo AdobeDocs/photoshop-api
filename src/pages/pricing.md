@@ -47,7 +47,7 @@ Custom pricing<br /><br />
 
 <div class="custom-text-sub"></div>
 
-* [Contact sales](https://hello.adobeexperiencecloud.com/c/bbabbittadobe-com)
+* [Contact sales](../signup/?ref=contactsales)
 
 - For use cases of 500K or greater API calls per year
 - Admin console supporting multiple credentials per organization
