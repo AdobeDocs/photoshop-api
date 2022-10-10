@@ -18,9 +18,9 @@ import '../customizations/index.css'
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
-## Start now and pay as you go
+## Adobe Photoshop API
 
-Flexible options to suit your needs
+Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud. To learn more about Enterprise pricing please contact our sales team.
 
 
 
@@ -85,4 +85,4 @@ Custom pricing<br /><br />
 Need more information to decide? <br/><br/>
 
 * [Try demo](demo.md)
-* [Contact us]()
+* [Contact us](https://psd-services.zendesk.com/hc/en-us/requests/new)
