@@ -35,3 +35,10 @@ cypress/downloads
 
 # lerna
 lerna-debug.log
+yarn-error.log
+.editorconfig
+.env
+.env.prod
+.env.stage
+.vscode
+.DS_Store
