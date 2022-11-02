@@ -43,7 +43,7 @@ $0, no commitment<br /><br />
 
 ## SMB/Individual Developer
 
-$0.10 per API call<br /><br />
+$0.15 per API call<br /><br />
 
 <div class="custom-text-sub"></div>
 
