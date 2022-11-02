@@ -23,34 +23,33 @@ import '../customizations/index.css'
 
 <TitleBlock className="custom-text-alignment" slots="heading, text" />
 
-## How can I provide feedback about the API or contact the team with questions?
+## How do I purchase and what’s the cost?
 
-Please reach out to [psdservices@adobe.com](mailto:psdservices@adobe.com) - we’d be happy to hear from you!
-
-
-
-<TitleBlock className="custom-text-alignment" slots="heading, text" />
-
-## What type of storage can I work with?
-
-You can retrieve and store files using S3 from Amazon Web Services, Adobe Creative Cloud storage, Dropbox, and Azure.
-
+We can work with you individually if you’re interested in purchasing the APIs. Reach out to [psdservices@adobe.com](mailto:psdservices@adobe.com) for more information.
 
 
 <TitleBlock className="custom-text-alignment" slots="heading, text" />
 
-## Is all of Photoshop available? When do you expect to roll out features like gaussian blur or content aware fill?
+## What kind of storage can I work with?
 
-Not yet. For now, please refer to the documentation for a comprehensive list of available features.
-
+You can retrieve and store files using Adobe Creative Cloud storage, S3 from Amazon Web Services, Dropbox, and Azure.
 
 
 <TitleBlock className="custom-text-alignment" slots="heading, text" />
 
-## What are you working on now, when can we expect to see new features?
+## Is all of Photoshop available?
 
-We are constantly looking to add new features and will keep you up to date with the latest features as they become available.
+Not all Photoshop features are available right now. New features will be added to the API in the future. Please refer to the [documentation](https://developer.adobe.com/photoshop/photoshop-api-docs) for the full list of available features.
 
 
+<TitleBlock className="custom-text-alignment" slots="heading, text" />
+
+## How can I provide feedback or ask questions?
+
+Please reach out to [psdservices@adobe.com](mailto:psdservices@adobe.com) or leave a post in our [community forum](https://community.adobe.com/t5/photoshop-developers/ct-p/ct-photoshop-developers?page=1&sort=latest_replies&lang=all&tabid=all).
+We’re happy to hear from you!
+
+
+<br/>
 <br/>
 <br/>
