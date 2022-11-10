@@ -47,7 +47,7 @@ $0.15 per API call<br /><br />
 
 <div class="custom-text-sub"></div>
 
-* [Subscribe on AWS](https://aws.amazon.com/marketplace/pp/prodview-uv7tqlk5idzpg?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
+* [Subscribe on AWS (U.S. only)](https://aws.amazon.com/marketplace/pp/prodview-uv7tqlk5idzpg?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
 
 - Up to 1 million API calls per year
 - One credential per paid account
