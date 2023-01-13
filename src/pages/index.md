@@ -48,7 +48,7 @@ From dozens of image cut-outs in the blink of an eye, to perfectly positioned ad
 
 ### Build scalable solutions
 
-Photoshop and Lightroom’s machine learning tools and services leverage the Adobe Sensei platform. Access our APIs to supercharge any photo editing idea you can imagine, at scale!
+Photoshop and Lightroom’s machine learning tools and services leverage the latest AI-driven technology. Access our APIs to supercharge any photo editing idea you can imagine, at scale!
 
 
 
@@ -56,7 +56,7 @@ Photoshop and Lightroom’s machine learning tools and services leverage the Ado
 
 ### Decision Maker
 
-Save time and money and supercharge your creative teams. Leverage the power of Lightroom, Photoshop, and Adobe Sensei APIs to reduce production costs, increase fidelity on output, and empower your creative team to do what they do best: create.
+Save time and money and supercharge your creative teams. Leverage the power of Lightroom and Photoshop APIs to reduce production costs, increase fidelity on output, and empower your creative team to do what they do best: create.
 
 * [See pricing](pricing.md)
 
@@ -66,7 +66,7 @@ Save time and money and supercharge your creative teams. Leverage the power of L
 
 ### Creative
 
-Pull together Photoshop, Lightroom and Adobe Sensei into one place. Reduce time spent in each app, freeing you up for more creative time.
+Pull together Photoshop and Lightroom into one place. Reduce time spent in each app, freeing you up for more creative time.
 
 * [Try demo](demo.md)
 
@@ -95,9 +95,9 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 ![](images/image-cutout.png)
 
-### Image Cutout
+### Remove Background
 
-Easily remove the subject from the background of any photo using Adobe Sensei
+Easily remove the subject from the background of any photo using Adobe Photoshop
 
 * [Try demo](demo.md?ref=imagecutout)
 
@@ -121,7 +121,7 @@ Create custom filters or use stock presets to enhance thousands of images at onc
 
 ### Auto Tone
 
-Automatically enhances photos to perfection using Adobe Sensei, our AI/ML platform
+Automatically enhance photos using the latest AI-driven technology.
 
 * [Try demo](demo.md?ref=autotone)
 
