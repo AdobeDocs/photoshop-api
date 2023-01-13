@@ -95,7 +95,7 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 ![](images/image-cutout.png)
 
-### Image Cutout
+### Remove Background
 
 Easily remove the subject from the background of any photo using Adobe Sensei
 
