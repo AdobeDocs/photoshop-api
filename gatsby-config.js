@@ -15,7 +15,7 @@ module.exports = {
     pages: [
       {
         title: 'Photoshop API',
-        path: '/'
+        path: '/photoshop/api'
       },
       {
         title: 'Demo',
@@ -23,11 +23,11 @@ module.exports = {
       },
       {
         title: 'Pricing',
-        path: '/pricing'
+        path: '/photoshop/pricing'
       },
       {
         title: 'FAQ',
-        path: '/faq'
+        path: '/photoshop/faq'
       },
       {
         title: 'Get Started',
