@@ -15,7 +15,7 @@ module.exports = {
     pages: [
       {
         title: 'Photoshop API',
-        path: 'index.md'
+        path: '/'
       },
       {
         title: 'Demo',
@@ -23,15 +23,15 @@ module.exports = {
       },
       {
         title: 'Pricing',
-        path: 'pricing.md'
+        path: '/pricing'
       },
       {
         title: 'FAQ',
-        path: 'faq.md'
+        path: '/faq'
       },
       {
         title: 'Get Started',
-        path: 'signup.md?ref=signup'
+        path: '/signup.md?ref=signup'
       }
     ],
     docs: {
