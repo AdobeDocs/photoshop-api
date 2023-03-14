@@ -12,7 +12,7 @@ keywords:
 title: Photoshop API 
 ---
  
-<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)"/>
+<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="hero" />
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
@@ -52,7 +52,7 @@ Photoshop and Lightroom’s machine learning tools and services leverage the lat
 
 
 
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered />
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="decision" />
 
 ### Decision Maker
 
@@ -62,7 +62,7 @@ Save time and money and supercharge your creative teams. Leverage the power of L
 
 
 
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered />
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="creative" />
 
 ### Creative
 
@@ -72,7 +72,7 @@ Pull together Photoshop and Lightroom into one place. Reduce time spent in each 
 
 
 
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered />
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="developer"/>
 
 ### Developer
 
@@ -91,7 +91,8 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+className="remove-background"/>
 
 ![](images/image-cutout.png)
 
@@ -103,7 +104,8 @@ Easily remove the subject from the background of any photo using Adobe Photoshop
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+className="presets" />
 
 ![](images/presets.png)
 
@@ -115,7 +117,7 @@ Create custom filters or use stock presets to enhance thousands of images at onc
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered className="auto-tone" />
 
 ![](images/auto-tone.png)
 
@@ -127,7 +129,8 @@ Automatically enhance photos using the latest AI-driven technology.
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+className="smart-object" />
 
 ![](images/smart-object.png)
 
@@ -140,7 +143,7 @@ Manipulate smart objects and create stunning visuals using our Smart Object API
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered className="text-layer" />
 
 ![](images/text-layer.png)
 
@@ -152,7 +155,8 @@ Edit and manipulate text without limits when utilizing our Text Layer API
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+className="photoshop-actions"/>
 
 ![](images/ps-actions.png)
 
@@ -164,7 +168,8 @@ Automate entire workflows using Photoshop actions and scale creativity by runnin
 
 
 
-<TextBlock slots="heading, buttons" theme="light" isCentered />
+<TextBlock slots="heading, buttons" theme="light" isCentered 
+className="demo"/>
 
 ### See all features in action
 
@@ -173,7 +178,7 @@ Automate entire workflows using Photoshop actions and scale creativity by runnin
 
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="summary"/>
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
