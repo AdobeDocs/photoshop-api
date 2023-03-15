@@ -23,10 +23,38 @@ Our Photoshop APIs save you time so you can focus on creating.
 * [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
 
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="decision" />
+
+### Content at scale
+
+Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
+
+* [See pricing](pricing.md)
+
+
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="creative" />
+
+### E-commerce
+
+Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
+
+* [Try demo](demo.md)
+
+
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="developer"/>
+
+### Marketing
+
+Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
+
+* [View documentation](https://www.adobe.com/go/photoshop-api-docs-home)
+
 
 <TextBlock slots="image, heading, text" theme="lightest" />
 
-![](AutomateContentCreation.png)
+![](images/AutomateContentCreation.png)
 
 ### Automate your content creation
 
@@ -39,47 +67,16 @@ With our API you can process images, remove backgrounds, adjust lighting and mor
 
 Our tools make managing your online product offerings a snap. Create mockups of products using our smart object replacement, and crop products automatically from larger images.
 
-![](IncreaseSales.png)
+![](images/IncreaseSales.png)
 
 
 <TextBlock slots="image, heading, text" theme="lightest" />
 
-![](SaveTimeEnhancing.png)
+![](images/SaveTimeEnhancing.png)
 
 ### Save time enhancing your images
 
 Create workflows that scale. Add looks, filters, and presets to a set of images without lifting a finger. Every time you upload a new photo, all your enhancements will apply to the new image, automatically.
-
-
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="decision" />
-
-### Decision Maker
-
-Save time and money and supercharge your creative teams. Leverage the power of Lightroom and Photoshop APIs to reduce production costs, increase fidelity on output, and empower your creative team to do what they do best: create.
-
-* [See pricing](pricing.md)
-
-
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="creative" />
-
-### Creative
-
-Pull together Photoshop and Lightroom into one place. Reduce time spent in each app, freeing you up for more creative time.
-
-* [Try demo](demo.md)
-
-
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="developer"/>
-
-### Developer
-
-Quickly create apps that scale with clean documentation, sample apps, and code snippets to get you started.
-
-* [View documentation](https://www.adobe.com/go/photoshop-api-docs-home)
-
 
 
 <TitleBlock slots="heading, text" theme="light" />

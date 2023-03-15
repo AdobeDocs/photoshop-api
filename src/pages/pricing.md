@@ -9,7 +9,7 @@ keywords:
   - SDK
   - C++
   - Scripting
-title: Photoshop API Pricing 
+title: Photoshop API Pricing
 ---
 
 import '../customizations/index.css'
@@ -20,8 +20,7 @@ import '../customizations/index.css'
 
 ## Adobe Photoshop API
 
-Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud. To learn more about Enterprise pricing please contact our sales team.
-
+Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud. 
 
 
 <TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
