@@ -9,46 +9,46 @@ keywords:
   - SDK
   - C++
   - Scripting
-title: Photoshop API 
+title: Photoshop API
 ---
- 
+
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="hero" />
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
-# Add the magic of Photoshop to your website or workflow
+# Unlock the power of Photoshop
 
-Our Photoshop API and extensions automate time-consuming design tasks, saving you hours, so your team can get back to doing what they do best: being creative. 
+Our Photoshop APIs save you time so you can focus on creating.
 
-* [Get Started](signup.md?ref=signup)
+* [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
 
 
 <TextBlock slots="image, heading, text" theme="lightest" />
 
-![](images/save-time-and-money.png)
+![](AutomateContentCreation.png)
 
-### Save time and money
+### Automate your content creation
 
-Our Photoshop APIs deliver high-fidelity, low-cost solutions that scale. Get direct access to the engine powering the industry’s most intelligent and scalable photo editing workflows at a fraction of the cost.
+With our API you can process images, remove backgrounds, adjust lighting and more, automatically and programmatically. It’s Photoshop on the go!
 
 
 <TextBlock slots="heading, text, image" theme="lightest" />
 
-### Rediscover your creative freedom
+### Increase your sales
 
-From dozens of image cut-outs in the blink of an eye, to perfectly positioned ad copy in a dozen different dimensions and formats, to custom filters and presets for batches of images. What took hours, now take seconds, so you can be your best, creative self.
+Our tools make managing your online product offerings a snap. Create mockups of products using our smart object replacement, and crop products automatically from larger images.
 
-![](images/creative-freedom.png)
+![](IncreaseSales.png)
 
 
 <TextBlock slots="image, heading, text" theme="lightest" />
 
-![](images/scalable-solutions.png)
+![](SaveTimeEnhancing.png)
 
-### Build scalable solutions
+### Save time enhancing your images
 
-Photoshop and Lightroom’s machine learning tools and services leverage the latest AI-driven technology. Access our APIs to supercharge any photo editing idea you can imagine, at scale!
+Create workflows that scale. Add looks, filters, and presets to a set of images without lifting a finger. Every time you upload a new photo, all your enhancements will apply to the new image, automatically.
 
 
 
@@ -91,27 +91,27 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
 className="remove-background"/>
 
 ![](images/image-cutout.png)
 
 ### Remove Background
 
-Easily remove the subject from the background of any photo using Adobe Photoshop
+Easily remove the subject from the background of any photo using AI / ML based cloud technology.
 
 * [Try demo](demo.md?ref=imagecutout)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
 className="presets" />
 
 ![](images/presets.png)
 
 ### Presets
 
-Create custom filters or use stock presets to enhance thousands of images at once with our Presets API
+Create custom filters or use stock presets to enhance thousands of images at once.
 
 * [Try demo](demo.md?ref=preset)
 
@@ -129,14 +129,14 @@ Automatically enhance photos using the latest AI-driven technology.
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
 className="smart-object" />
 
 ![](images/smart-object.png)
 
 ### Smart Object
 
-Manipulate smart objects and create stunning visuals using our Smart Object API
+Create stunning visuals without changing your original image using Smart Objects.
 
 * [Try demo](demo.md?ref=smartobject)
 
@@ -149,26 +149,26 @@ Manipulate smart objects and create stunning visuals using our Smart Object API
 
 ### Text Layer
 
-Edit and manipulate text without limits when utilizing our Text Layer API
+Add text to your images, edit text, and manipulate existing text directly on a PSD.
 
 * [Try demo](demo.md?ref=textlayer)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
+<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
 className="photoshop-actions"/>
 
 ![](images/ps-actions.png)
 
 ### Photoshop Actions
 
-Automate entire workflows using Photoshop actions and scale creativity by running them in the cloud.
+Automate entire workflows using Photoshop actions in the cloud.
 
 * [Try demo](demo.md?ref=psactions)
 
 
 
-<TextBlock slots="heading, buttons" theme="light" isCentered 
+<TextBlock slots="heading, buttons" theme="light" isCentered
 className="demo"/>
 
 ### See all features in action
@@ -182,9 +182,9 @@ className="demo"/>
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
-## Adobe Photoshop API magic, now available in the cloud 
+## Unlock the power of Photoshop APIs, now in the cloud
 
-Sign up now to get access to the world’s standard in game-changing imaging technology that can help you redefine how creative works gets done.
+Sign up now to get access to the world’s standard in game-changing imaging technology.
 
-* [Get Started](signup.md?ref=signup)
+* [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
