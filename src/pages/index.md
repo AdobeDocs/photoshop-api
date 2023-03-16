@@ -11,7 +11,7 @@ keywords:
   - Scripting
 title: Photoshop API
 ---
-
+[//]: # (-----------------------------------Hero Section--------------------------------------------------------)
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="hero" />
 
 ![](images/Adobe_io_illustration_banner_3x.png)
@@ -23,35 +23,36 @@ Our Photoshop APIs save you time so you can focus on creating.
 * [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
 
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="decision" />
+[//]: # (-----------------------------------Three Up Section --------------------------------------------------------)
+<TextBlock slots="heading, text, links" width="33%" theme="lightest" isCentered className="three-up" />
 
-### Content at scale
+### Real Estate
 
 Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
 
-* [See pricing](pricing.md)
+[See pricing](pricing.md)
 
 
 
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="creative" />
+<TextBlock slots="heading, text, links" width="33%" theme="lightest" isCentered className="creative" />
 
 ### E-commerce
 
 Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
 
-* [Try demo](demo.md)
+[Try demo](demo.md)
 
 
 
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="developer"/>
+<TextBlock slots="heading, text, links" width="33%" theme="lightest" isCentered className="developer"/>
 
 ### Marketing
 
 Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
 
-* [View documentation](https://www.adobe.com/go/photoshop-api-docs-home)
+[View documentation](https://www.adobe.com/go/photoshop-api-docs-home)
 
-
+[//]: # (-----------------------------------River Flow Section --------------------------------------------------------)
 <TextBlock slots="image, heading, text" theme="lightest" />
 
 ![](images/AutomateContentCreation.png)
@@ -79,6 +80,7 @@ Our tools make managing your online product offerings a snap. Create mockups of 
 Create workflows that scale. Add looks, filters, and presets to a set of images without lifting a finger. Every time you upload a new photo, all your enhancements will apply to the new image, automatically.
 
 
+[//]: # (-----------------------------------Feature Section --------------------------------------------------------)
 <TitleBlock slots="heading, text" theme="light" />
 
 ### Adobe Photoshop API magic, now available in the cloud
@@ -87,8 +89,7 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 
 
-
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
 className="remove-background"/>
 
 ![](images/image-cutout.png)
@@ -97,11 +98,11 @@ className="remove-background"/>
 
 Easily remove the subject from the background of any photo using AI / ML based cloud technology.
 
-* [Try demo](demo.md?ref=imagecutout)
+[Remove background](demo.md?ref=imagecutout)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
 className="presets" />
 
 ![](images/presets.png)
@@ -110,11 +111,11 @@ className="presets" />
 
 Create custom filters or use stock presets to enhance thousands of images at once.
 
-* [Try demo](demo.md?ref=preset)
+[Use presets](demo.md?ref=preset)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered className="auto-tone" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="auto-tone" />
 
 ![](images/auto-tone.png)
 
@@ -122,11 +123,11 @@ Create custom filters or use stock presets to enhance thousands of images at onc
 
 Automatically enhance photos using the latest AI-driven technology.
 
-* [Try demo](demo.md?ref=autotone)
+[Enhance photo](demo.md?ref=autotone)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
 className="smart-object" />
 
 ![](images/smart-object.png)
@@ -135,12 +136,11 @@ className="smart-object" />
 
 Create stunning visuals without changing your original image using Smart Objects.
 
-* [Try demo](demo.md?ref=smartobject)
+[Swap smart objects](demo.md?ref=smartobject)
 
 
 
-
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered className="text-layer" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="text-layer" />
 
 ![](images/text-layer.png)
 
@@ -148,11 +148,11 @@ Create stunning visuals without changing your original image using Smart Objects
 
 Add text to your images, edit text, and manipulate existing text directly on a PSD.
 
-* [Try demo](demo.md?ref=textlayer)
+[Add text](demo.md?ref=textlayer)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
 className="photoshop-actions"/>
 
 ![](images/ps-actions.png)
@@ -161,20 +161,21 @@ className="photoshop-actions"/>
 
 Automate entire workflows using Photoshop actions in the cloud.
 
-* [Try demo](demo.md?ref=psactions)
+[Automate workflows](demo.md?ref=psactions)
 
 
 
-<TextBlock slots="heading, buttons" theme="light" isCentered
-className="demo"/>
+<TextBlock slots="heading, text1, buttons" theme="dark" isCentered
+className="contact-us"/>
 
-### See all features in action
+### Let us help you build the right solution.
 
-* [Try demo](demo.md?ref=home)
+Our team of technical consultants have helped countless partners build the right things. Let us help you build the right solution.
+
+* [Contact us](https://calendly.com/brianbabbitt/30min)
 
 
-
-
+[//]: # (-----------------------------------Summary Section --------------------------------------------------------)
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="summary"/>
 
 ![](images/Adobe_io_illustration_banner_3x.png)
