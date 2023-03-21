@@ -1,6 +1,6 @@
 ---
 keywords:
-  -  Photo editor API
+  - Photo editor API
   - Photoshop workflow automation
   - Image editor API
   - Photoshop API
@@ -33,7 +33,7 @@ Our Photoshop APIs save you time so you can focus on creating.
 
 ### Real Estate
 
-Use our API to leverage our AI/ML models to auto enhance your images and make them stand from the rest.  
+Use our API to leverage our models to auto enhance your images and make them stand out from the rest.  
 
 
 
@@ -42,7 +42,7 @@ Use our API to leverage our AI/ML models to auto enhance your images and make th
 
 ### E-commerce
 
-With simple tools, we empower you to scale the number of product listings you have, beautify them, and easily test creative variations.
+Easily scale the number of product listings you have, beautify them, and easily create multiple variations.
 
 
 
@@ -51,7 +51,7 @@ With simple tools, we empower you to scale the number of product listings you ha
 
 ### Marketing
 
-Generate thousands of variations and renditions needed to get your marketing and campaign launched sooner.
+Generate thousands of assets and renditions needed to get your marketing campaigns launched sooner.
 
 
 [//]: # (-----------------------------------River Flow Section --------------------------------------------------------)
@@ -61,7 +61,7 @@ Generate thousands of variations and renditions needed to get your marketing and
 
 ### Automate your content creation
 
-With our API you can process images, remove backgrounds, adjust lighting and more, automatically and programmatically. It’s Photoshop on the go!
+We can help you enhance your images quickly, for a fraction of the cost. Every time you upload a new photo, all your enhancements will automatically apply. No need to spend more money or time!
 
 
 <TextBlock slots="heading, text, image" theme="lightest" />
@@ -172,7 +172,7 @@ className="index-contact-us"/>
 
 ### Let us help you build the right solution.
 
-Our team of technical consultants have helped countless partners build the right things. Let us help you build the right solution.
+Our team of technical consultants have helped countless partners build the right things.
 
 * [Contact us](https://calendly.com/brianbabbitt/30min)
 

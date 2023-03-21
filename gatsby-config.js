@@ -24,28 +24,28 @@ module.exports = {
       {
         title: 'Pricing',
         path: 'pricing.md'
+      },{
+        
+        title: 'View Docs',
+        path: 'https://www.adobe.com/go/photoshop-api-docs-home'
       },
       {
         title: 'Support',
         menu:[{
-          title: 'Help Center'
+          title: 'FAQ',
           path:'faq.md'
         }, {
-          title: 'Submit a ticket'
-          path: 'faq.md'
+          title: 'Submit a ticket',
+          path: 'https://psd-services.zendesk.com/hc/en-us/requests/new'
         }, {
-          title: 'Community Forums'
-          path: 'faq.md '
+          title: 'Community Forums',
+          path: 'https://community.adobe.com/t5/photoshop-developers/ct-p/ct-photoshop-developers?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-psautomationapi'
         }]
       },
-      {
-        title: 'Get Started',
-        path: 'signup.md?ref=signup'
-      }
     ],
     docs: {
-      title: 'View Docs',
-      path: 'https://www.adobe.com/go/photoshop-api-docs-home'
+      title: 'Get Started',
+      path: 'signup.md?ref=signup'
     }
   },
   plugins: [`@adobe/gatsby-theme-aio`],
