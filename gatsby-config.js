@@ -26,8 +26,17 @@ module.exports = {
         path: 'pricing.md'
       },
       {
-        title: 'FAQ',
-        path: 'faq.md'
+        title: 'Support',
+        menu:[{
+          title: 'Help Center'
+          path:'faq.md'
+        }, {
+          title: 'Submit a ticket'
+          path: 'faq.md'
+        }, {
+          title: 'Community Forums'
+          path: 'faq.md '
+        }]
       },
       {
         title: 'Get Started',

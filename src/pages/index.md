@@ -1,18 +1,23 @@
 ---
 keywords:
-  - Creative Cloud
+  -  Photo editor API
+  - Photoshop workflow automation
+  - Image editor API
+  - Photoshop API
+  - Image editing API for developers
+  - Photoshop in the Cloud
+  - Remove background API
   - API Documentation
   - UXP
   - Plugins
   - JavaScript
   - ExtendScript
   - SDK
-  - C++
   - Scripting
 title: Photoshop API
 ---
 [//]: # (-----------------------------------Hero Section--------------------------------------------------------)
-<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="hero" />
+<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="index-hero" />
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
@@ -24,33 +29,30 @@ Our Photoshop APIs save you time so you can focus on creating.
 * [Try demo](demo.md)
 
 [//]: # (-----------------------------------Three Up Section --------------------------------------------------------)
-<TextBlock slots="heading, text, links" width="33%" theme="lightest" isCentered className="three-up" />
+<TextBlock slots="heading, text" width="33%" theme="lightest" isCentered className="index-value-prop-a" />
 
 ### Real Estate
 
-Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
-
-[See pricing](pricing.md)
+Use our API to leverage our AI/ML models to auto enhance your images and make them stand from the rest.  
 
 
 
-<TextBlock slots="heading, text, links" width="33%" theme="lightest" isCentered className="creative" />
+
+<TextBlock slots="heading, text" width="33%" theme="lightest" isCentered className="index-value-prop-b" />
 
 ### E-commerce
 
-Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
-
-[Try demo](demo.md)
+With simple tools, we empower you to scale the number of product listings you have, beautify them, and easily test creative variations.
 
 
 
-<TextBlock slots="heading, text, links" width="33%" theme="lightest" isCentered className="developer"/>
+
+<TextBlock slots="heading, text" width="33%" theme="lightest" isCentered className="index-value-prop-c"/>
 
 ### Marketing
 
-Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat.
+Generate thousands of variations and renditions needed to get your marketing and campaign launched sooner.
 
-[View documentation](https://www.adobe.com/go/photoshop-api-docs-home)
 
 [//]: # (-----------------------------------River Flow Section --------------------------------------------------------)
 <TextBlock slots="image, heading, text" theme="lightest" />
@@ -90,7 +92,7 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
-className="remove-background"/>
+className="index-remove-background"/>
 
 ![](images/image-cutout.png)
 
@@ -103,7 +105,7 @@ Easily remove the subject from the background of any photo using AI / ML based c
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
-className="presets" />
+className="index-presets" />
 
 ![](images/presets.png)
 
@@ -115,7 +117,7 @@ Create custom filters or use stock presets to enhance thousands of images at onc
 
 
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="auto-tone" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="index-auto-tone" />
 
 ![](images/auto-tone.png)
 
@@ -128,7 +130,7 @@ Automatically enhance photos using the latest AI-driven technology.
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
-className="smart-object" />
+className="index-smart-object" />
 
 ![](images/smart-object.png)
 
@@ -140,7 +142,7 @@ Create stunning visuals without changing your original image using Smart Objects
 
 
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="text-layer" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="index-text-layer" />
 
 ![](images/text-layer.png)
 
@@ -153,7 +155,7 @@ Add text to your images, edit text, and manipulate existing text directly on a P
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
-className="photoshop-actions"/>
+className="index-photoshop-actions"/>
 
 ![](images/ps-actions.png)
 
@@ -165,8 +167,8 @@ Automate entire workflows using Photoshop actions in the cloud.
 
 
 
-<TextBlock slots="heading, text1, buttons" theme="dark" isCentered
-className="contact-us"/>
+<TextBlock slots="heading, text1, buttons" theme="light" isCentered
+className="index-contact-us"/>
 
 ### Let us help you build the right solution.
 
@@ -176,7 +178,7 @@ Our team of technical consultants have helped countless partners build the right
 
 
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="summary"/>
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="index-summary"/>
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 

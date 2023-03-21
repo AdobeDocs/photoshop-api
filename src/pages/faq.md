@@ -9,7 +9,7 @@ keywords:
   - SDK
   - C++
   - Scripting
-title: Photoshop API FAQ 
+title: Photoshop API FAQ
 ---
 
 import '../customizations/index.css'
@@ -25,21 +25,21 @@ import '../customizations/index.css'
 
 ## How do I purchase and what’s the cost?
 
-We can work with you individually if you’re interested in purchasing the APIs. Reach out to [psdservices@adobe.com](mailto:psdservices@adobe.com) for more information.
+We offer a variety of pricing options to fit your needs. You can learn more about our offers by visting our [pricing page.](pricing.md)
 
 
 <TitleBlock className="custom-text-alignment" slots="heading, text" />
 
 ## What kind of storage can I work with?
 
-You can retrieve and store files using Adobe Creative Cloud storage, S3 from Amazon Web Services, Dropbox, and Azure.
+You can retrieve and store files from any storage that provides pre-signed urls. We recommend S3 from Amazon Web Services, Dropbox, and Azure but any pre-signed url should work.
 
 
 <TitleBlock className="custom-text-alignment" slots="heading, text" />
 
 ## Is all of Photoshop available?
 
-Not all Photoshop features are available right now. New features will be added to the API in the future. Please refer to the [documentation](https://developer.adobe.com/photoshop/photoshop-api-docs) for the full list of available features.
+While all features are not available, with the release of the Photoshop Actions endpoint you now have access to any operation that does not require user input.
 
 
 <TitleBlock className="custom-text-alignment" slots="heading, text" />
