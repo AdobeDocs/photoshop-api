@@ -93,7 +93,7 @@ className="index-remove-background"/>
 
 Easily remove the subject from the background of any photo using AI / ML based cloud technology.
 
-[Remove background](demo.md?ref=imagecutout)
+[Remove background](remove-background.md)
 
 
 

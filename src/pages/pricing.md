@@ -20,7 +20,7 @@ import '../customizations/index.css'
 
 ## Adobe Photoshop API
 
-Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud. 
+Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud.
 
 
 <TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
@@ -46,8 +46,8 @@ $0.15 per API call<br /><br />
 
 <div class="custom-text-sub"></div>
 
-* [Subscribe on AWS (U.S. only)](https://aws.amazon.com/marketplace/pp/prodview-uv7tqlk5idzpg?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
-* [Subscribe on AWS (International)](https://aws.amazon.com/marketplace/pp/prodview-w4klf4hkd6mqq?sr=0-4&ref_=beagle&applicationId=AWS-Marketplace-Console)
+* [Subscribe on AWS (U.S. only)](https://aws.amazon.com/marketplace/pp/prodview-buj47owc7mnls?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
+* [Subscribe on AWS (International)](https://aws.amazon.com/marketplace/pp/prodview-tuhreceyioyng?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
 
 - Up to 1 million API calls per year
 - One credential per paid account

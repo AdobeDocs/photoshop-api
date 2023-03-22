@@ -142,6 +142,65 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
+            document
+                .querySelector(".remove-background-hero")
+                ?.setAttribute("daa-lh", "remove-background-hero")
+
+            document
+                .querySelectorAll(".remove-background-hero a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-value-prop-a")
+                ?.setAttribute("daa-lh", "remove-background-value-prop-a")
+
+            document
+                .querySelectorAll(".remove-background-value-prop-a a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-value-prop-b")
+                ?.setAttribute("daa-lh", "remove-background-value-prop-b")
+
+            document
+                .querySelectorAll(".remove-background-value-prop-b a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-value-prop-c")
+                ?.setAttribute("daa-lh", "remove-background-value-prop-c")
+
+            document
+                .querySelectorAll(".remove-background-value-prop-c a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-contact-us")
+                ?.setAttribute("daa-lh", "remove-background-contact-us")
+
+            document
+                .querySelectorAll(".remove-background-contact-us a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-sdk-sign-up")
+                ?.setAttribute("daa-lh", "remove-background-sdk-sign-up")
+
+            document
+                .querySelectorAll(".remove-background-sdk-sign-up a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
 
         } else if(window.location.pathname.indexOf("demo") >= 0) {
 
@@ -151,6 +210,8 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
 
         } else if(window.location.pathname.indexOf("signup") >= 0) {
 
-        } 
+        } else if(window.location.pathname.indexOf("remove-background") >= 0) {
+
+        }
     }
 };
