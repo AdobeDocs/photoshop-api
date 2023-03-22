@@ -1,4 +1,6 @@
 ---
+title: Photoshop API
+description: Photoshop in the cloud. Image and PSD editing API for developers and creatives.
 keywords:
   - Photo editor API
   - Photoshop workflow automation
@@ -6,15 +8,6 @@ keywords:
   - Photoshop API
   - Image editing API for developers
   - Photoshop in the Cloud
-  - Remove background API
-  - API Documentation
-  - UXP
-  - Plugins
-  - JavaScript
-  - ExtendScript
-  - SDK
-  - Scripting
-title: Photoshop API
 ---
 [//]: # (-----------------------------------Hero Section--------------------------------------------------------)
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="index-hero" />
@@ -59,9 +52,9 @@ Generate thousands of assets and renditions needed to get your marketing campaig
 
 ![](images/AutomateContentCreation.png)
 
-### Automate your content creation
+### Streamline your content creation
 
-We can help you enhance your images quickly, for a fraction of the cost. Every time you upload a new photo, all your enhancements will automatically apply. No need to spend more money or time!
+With our API you can process images, remove backgrounds, adjust lighting and more, automatically and programmatically. It’s Photoshop on the go!
 
 
 <TextBlock slots="heading, text, image" theme="lightest" />
