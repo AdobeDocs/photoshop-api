@@ -38,7 +38,7 @@ $0, no commitment<br /><br />
 - Lowest level queuing for API traffic
 - Tech Support: 72 hours turnaround time on technical issues
 
-<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
+<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%"  />
 
 ## SMB/Individual Developer
 
@@ -78,7 +78,7 @@ Custom pricing<br /><br />
 - Access to technical consultations to help you build your solution
 - Full production feature access
 
-<TextBlock slots="heading, text, buttons" theme="dark" isCentered/>
+<TextBlock slots="heading, text, buttons" className="pricing-contact-us" theme="dark" isCentered/>
 
 ## We’re here to help
 
@@ -86,3 +86,18 @@ Need more information to decide? <br/><br/>
 
 * [Try demo](demo.md)
 * [Contact us](https://psd-services.zendesk.com/hc/en-us/requests/new)
+
+
+
+
+[//]: # (-----------------------------------Summary Section --------------------------------------------------------)
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="pricing-summary"/>
+
+![](images/Adobe_io_illustration_banner_3x.png)
+
+## Unlock the power of Photoshop APIs, now in the cloud
+
+Sign up now to get access to the world’s standard in game-changing imaging technology.
+
+* [Start free trial](signup.md?ref=signup)
+* [Try demo](demo.md)

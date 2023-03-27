@@ -10,22 +10,22 @@
  * governing permissions and limitations under the License.
  */
 
-module.exports = {
-  siteMetadata: {
-    pages: [
-      {
-        title: 'Photoshop API',
-        path: 'index.md'
-      },
-      {
+ module.exports = {
+   siteMetadata: {
+     pages: [
+       {
+         title: 'Photoshop API',
+         path: 'index.md'
+       },
+       {
         title: 'Demo',
         path: 'demo.md'
       },
       {
         title: 'Pricing',
         path: 'pricing.md'
-      },{
-        
+      },
+      {
         title: 'View Docs',
         path: 'https://www.adobe.com/go/photoshop-api-docs-home'
       },
