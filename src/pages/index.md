@@ -1,87 +1,81 @@
 ---
+title: Photoshop API
+description: Photoshop in the cloud. Image and PSD editing API for developers and creatives.
 keywords:
-  - Creative Cloud
-  - API Documentation
-  - UXP
-  - Plugins
-  - JavaScript
-  - ExtendScript
-  - SDK
-  - C++
-  - Scripting
-title: Photoshop API 
+  - Photo editor API
+  - Photoshop workflow automation
+  - Image editor API
+  - Photoshop API
+  - Image editing API for developers
+  - Photoshop in the Cloud
 ---
- 
-<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="hero" />
+[//]: # (-----------------------------------Hero Section--------------------------------------------------------)
+<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="index-hero" />
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
-# Add the magic of Photoshop to your website or workflow
+# Unlock the power of Photoshop
 
-Our Photoshop API and extensions automate time-consuming design tasks, saving you hours, so your team can get back to doing what they do best: being creative. 
+Our Photoshop APIs save you time so you can focus on creating.
 
-* [Get Started](signup.md?ref=signup)
+* [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
 
+[//]: # (-----------------------------------Three Up Section --------------------------------------------------------)
+<TextBlock slots="heading, text" width="33%" theme="lightest" isCentered className="index-value-prop-a" />
 
+### Real Estate
+
+Use our API to leverage our models to auto enhance your images and make them stand out from the rest.  
+
+
+
+
+<TextBlock slots="heading, text" width="33%" theme="lightest" isCentered className="index-value-prop-b" />
+
+### E-commerce
+
+Easily scale the number of product listings you have, beautify them, and easily create multiple variations.
+
+
+
+
+<TextBlock slots="heading, text" width="33%" theme="lightest" isCentered className="index-value-prop-c"/>
+
+### Marketing
+
+Generate thousands of assets and renditions needed to get your marketing campaigns launched sooner.
+
+
+[//]: # (-----------------------------------River Flow Section --------------------------------------------------------)
 <TextBlock slots="image, heading, text" theme="lightest" />
 
-![](images/save-time-and-money.png)
+![](images/AutomateContentCreation.png)
 
-### Save time and money
+### Streamline your content creation
 
-Our Photoshop APIs deliver high-fidelity, low-cost solutions that scale. Get direct access to the engine powering the industry’s most intelligent and scalable photo editing workflows at a fraction of the cost.
+With our API you can process images, remove backgrounds, adjust lighting and more, automatically and programmatically. It’s Photoshop on the go!
 
 
 <TextBlock slots="heading, text, image" theme="lightest" />
 
-### Rediscover your creative freedom
+### Increase your sales
 
-From dozens of image cut-outs in the blink of an eye, to perfectly positioned ad copy in a dozen different dimensions and formats, to custom filters and presets for batches of images. What took hours, now take seconds, so you can be your best, creative self.
+Our tools make managing your online product offerings a snap. Create mockups of products using our smart object replacement, and crop products automatically from larger images.
 
-![](images/creative-freedom.png)
+![](images/IncreaseSales.png)
 
 
 <TextBlock slots="image, heading, text" theme="lightest" />
 
-![](images/scalable-solutions.png)
+![](images/SaveTimeEnhancing.png)
 
-### Build scalable solutions
+### Save time enhancing your images
 
-Photoshop and Lightroom’s machine learning tools and services leverage the latest AI-driven technology. Access our APIs to supercharge any photo editing idea you can imagine, at scale!
-
-
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="decision" />
-
-### Decision Maker
-
-Save time and money and supercharge your creative teams. Leverage the power of Lightroom and Photoshop APIs to reduce production costs, increase fidelity on output, and empower your creative team to do what they do best: create.
-
-* [See pricing](pricing.md)
+Create workflows that scale. Add looks, filters, and presets to a set of images without lifting a finger. Every time you upload a new photo, all your enhancements will apply to the new image, automatically.
 
 
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="creative" />
-
-### Creative
-
-Pull together Photoshop and Lightroom into one place. Reduce time spent in each app, freeing you up for more creative time.
-
-* [Try demo](demo.md)
-
-
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="lightest" isCentered className="developer"/>
-
-### Developer
-
-Quickly create apps that scale with clean documentation, sample apps, and code snippets to get you started.
-
-* [View documentation](https://www.adobe.com/go/photoshop-api-docs-home)
-
-
-
+[//]: # (-----------------------------------Feature Section --------------------------------------------------------)
 <TitleBlock slots="heading, text" theme="light" />
 
 ### Adobe Photoshop API magic, now available in the cloud
@@ -90,34 +84,33 @@ The creative world runs on Photoshop. Now you can harness the power of the world
 
 
 
-
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
-className="remove-background"/>
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
+className="index-remove-background"/>
 
 ![](images/image-cutout.png)
 
 ### Remove Background
 
-Easily remove the subject from the background of any photo using Adobe Photoshop
+Easily remove the subject from the background of any photo using AI / ML based cloud technology.
 
-* [Try demo](demo.md?ref=imagecutout)
+[Remove background](demo.md?ref=imagecutout)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
-className="presets" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
+className="index-presets" />
 
 ![](images/presets.png)
 
 ### Presets
 
-Create custom filters or use stock presets to enhance thousands of images at once with our Presets API
+Create custom filters or use stock presets to enhance thousands of images at once.
 
-* [Try demo](demo.md?ref=preset)
+[Use presets](demo.md?ref=preset)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered className="auto-tone" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="index-auto-tone" />
 
 ![](images/auto-tone.png)
 
@@ -125,66 +118,66 @@ Create custom filters or use stock presets to enhance thousands of images at onc
 
 Automatically enhance photos using the latest AI-driven technology.
 
-* [Try demo](demo.md?ref=autotone)
+[Enhance photo](demo.md?ref=autotone)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
-className="smart-object" />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
+className="index-smart-object" />
 
 ![](images/smart-object.png)
 
 ### Smart Object
 
-Manipulate smart objects and create stunning visuals using our Smart Object API
+Create stunning visuals without changing your original image using Smart Objects.
 
-* [Try demo](demo.md?ref=smartobject)
-
-
+[Swap smart objects](demo.md?ref=smartobject)
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered className="text-layer" />
+
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered className="index-text-layer" />
 
 ![](images/text-layer.png)
 
 ### Text Layer
 
-Edit and manipulate text without limits when utilizing our Text Layer API
+Add text to your images, edit text, and manipulate existing text directly on a PSD.
 
-* [Try demo](demo.md?ref=textlayer)
+[Add text](demo.md?ref=textlayer)
 
 
 
-<TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered 
-className="photoshop-actions"/>
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered
+className="index-photoshop-actions"/>
 
 ![](images/ps-actions.png)
 
 ### Photoshop Actions
 
-Automate entire workflows using Photoshop actions and scale creativity by running them in the cloud.
+Automate entire workflows using Photoshop actions in the cloud.
 
-* [Try demo](demo.md?ref=psactions)
-
-
-
-<TextBlock slots="heading, buttons" theme="light" isCentered 
-className="demo"/>
-
-### See all features in action
-
-* [Try demo](demo.md?ref=home)
+[Automate workflows](demo.md?ref=psactions)
 
 
 
+<TextBlock slots="heading, text1, buttons" theme="light" isCentered
+className="index-contact-us"/>
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="summary"/>
+### Let us help you build the right solution.
+
+Our team of technical consultants have helped countless partners build the right things.
+
+* [Contact us](https://calendly.com/brianbabbitt/30min)
+
+
+[//]: # (-----------------------------------Summary Section --------------------------------------------------------)
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="index-summary"/>
 
 ![](images/Adobe_io_illustration_banner_3x.png)
 
-## Adobe Photoshop API magic, now available in the cloud 
+## Unlock the power of Photoshop APIs, now in the cloud
 
-Sign up now to get access to the world’s standard in game-changing imaging technology that can help you redefine how creative works gets done.
+Sign up now to get access to the world’s standard in game-changing imaging technology.
 
-* [Get Started](signup.md?ref=signup)
+* [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)

@@ -21,126 +21,197 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         });
 
         // check if on localhost or deployed somewhere
-        if (window.location.pathname === "/"|| window.location.pathname === "/photoshop/api/" ){ 
+        if (window.location.pathname === "/"|| window.location.pathname === "/photoshop/api/" ){
             document
-                .querySelector(".hero")
-                ?.setAttribute("daa-lh", "hero");
+                .querySelector(".index-hero")
+                ?.setAttribute("daa-lh", "index-hero");
 
             document
-                .querySelectorAll(".hero a")
+                .querySelectorAll(".index-hero a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".decision")
-                ?.setAttribute("daa-lh", "decision");
-    
+                .querySelector(".index-value-prop-a")
+                ?.setAttribute("daa-lh", "index-value-prop-a");
+
             document
-                .querySelectorAll(".decision a")
+                .querySelectorAll(".index-value-prop-a a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".creative")
-                ?.setAttribute("daa-lh", "creative");
-    
+                .querySelector(".index-value-prop-b")
+                ?.setAttribute("daa-lh", "index-value-prop-b");
+
             document
-                .querySelectorAll(".creative a")
+                .querySelectorAll(".index-value-prop-b a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".developer")
-                ?.setAttribute("daa-lh", "developer");
-    
+                .querySelector(".index-value-prop-c")
+                ?.setAttribute("daa-lh", "index-value-prop-c");
+
             document
-                .querySelectorAll(".developer a")
+                .querySelectorAll(".index-value-prop-c a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".remove-background")
-                ?.setAttribute("daa-lh", "remove-background");
-    
+                .querySelector(".index-remove-background")
+                ?.setAttribute("daa-lh", "index-remove-background");
+
             document
-                .querySelectorAll(".remove-background a")
+                .querySelectorAll(".index-remove-background a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".presets")
-                ?.setAttribute("daa-lh", "presets");
-    
+                .querySelector(".index-presets")
+                ?.setAttribute("daa-lh", "index-presets");
+
             document
-                .querySelectorAll(".presets a")
+                .querySelectorAll(".index-presets a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".auto-tone")
-                ?.setAttribute("daa-lh", "auto-tone");
-    
+                .querySelector(".index-auto-tone")
+                ?.setAttribute("daa-lh", "index-auto-tone");
+
             document
-                .querySelectorAll(".auto-tone a")
+                .querySelectorAll(".index-auto-tone a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".smart-object")
-                ?.setAttribute("daa-lh", "smart-object");
-    
+                .querySelector(".index-smart-object")
+                ?.setAttribute("daa-lh", "index-smart-object");
+
             document
-                .querySelectorAll(".smart-object a")
+                .querySelectorAll(".index-smart-object a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".text-layer")
-                ?.setAttribute("daa-lh", "text-layer");
-    
+                .querySelector(".index-text-layer")
+                ?.setAttribute("daa-lh", "index-text-layer");
+
             document
-                .querySelectorAll(".text-layer a")
+                .querySelectorAll(".index-text-layer a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".photoshop-actions")
-                ?.setAttribute("daa-lh", "photoshop-actions");
-    
+                .querySelector(".index-photoshop-actions")
+                ?.setAttribute("daa-lh", "index-photoshop-actions");
+
             document
-                .querySelectorAll(".photoshop-actions a")
+                .querySelectorAll(".index-photoshop-actions a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".demo")
-                ?.setAttribute("daa-lh", "demo");
-    
+                .querySelector(".index-contact-us")
+                ?.setAttribute("daa-lh", "index-contact-us");
+
             document
-                .querySelectorAll(".demo a")
+                .querySelectorAll(".index-contact-us a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
 
             document
-                .querySelector(".summary")
-                ?.setAttribute("daa-lh", "summary");
-    
+                .querySelector(".index-summary")
+                ?.setAttribute("daa-lh", "index-summary");
+
             document
-                .querySelectorAll(".summary a")
+                .querySelectorAll(".index-summary a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
+
+            document
+                .querySelector(".remove-background-hero")
+                ?.setAttribute("daa-lh", "remove-background-hero")
+
+            document
+                .querySelectorAll(".remove-background-hero a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-sdk-sign-up")
+                ?.setAttribute("daa-lh", "remove-background-sdk-sign-up")
+
+            document
+                .querySelectorAll(".remove-background-sdk-sign-up a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-value-prop-a")
+                ?.setAttribute("daa-lh", "remove-background-value-prop-a")
+
+            document
+                .querySelectorAll(".remove-background-value-prop-a a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-value-prop-b")
+                ?.setAttribute("daa-lh", "remove-background-value-prop-b")
+
+            document
+                .querySelectorAll(".remove-background-value-prop-b a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-value-prop-c")
+                ?.setAttribute("daa-lh", "remove-background-value-prop-c")
+
+            document
+                .querySelectorAll(".remove-background-value-prop-c a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-contact-us")
+                ?.setAttribute("daa-lh", "remove-background-contact-us")
+
+            document
+                .querySelectorAll(".remove-background-contact-us a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
+            document
+                .querySelector(".remove-background-summary")
+                ?.setAttribute("daa-lh", "remove-background-summary")
+
+            document
+                .querySelectorAll(".remove-background-summary a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+
         } else if(window.location.pathname.indexOf("demo") >= 0) {
 
         } else if(window.location.pathname.indexOf("faq") >= 0) {
@@ -148,6 +219,8 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         } else if(window.location.pathname.indexOf("pricing") >= 0) {
 
         } else if(window.location.pathname.indexOf("signup") >= 0) {
+
+        } else if(window.location.pathname.indexOf("remove-background") >= 0) {
 
         }
     }

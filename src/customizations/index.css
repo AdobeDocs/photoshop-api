@@ -26,3 +26,67 @@
   color: #009966;
   margin:0 5px 0 -15px;
 }
+
+/* faq page  */
+
+.faq-editor-page {
+    height: 100px !important;
+}
+
+.faq-editor-page>div {
+    justify-content: center !important;
+    align-items: flex-start !important;
+    padding-left: 15% !important;
+}
+
+.faqContent {
+    width: 50% !important;
+    margin: auto !important;
+}
+
+.faqContent>div {
+    width: 100% !important;
+}
+
+.faqContent>div>h2,
+.spectrum-Accordion-itemContent>p {
+    text-align: initial !important;
+}
+
+.spectrum-Accordion {
+    padding-bottom: var(--spectrum-global-dimension-size-600);
+}
+
+.spectrum-Accordion-itemHeader {
+    padding-left: 0px !important;
+    color: var(--spectrum-listitem-m-text-color-hover, var(--spectrum-alias-text-color));
+    font-size: 18px !important;
+    font-weight: var(--spectrum-global-font-weight-bold) !important;
+}
+
+.spectrum-Accordion-itemIndicator {
+    transform: rotate(0deg) !important;
+    left: 98% !important;
+    top: calc(12PX - var(--spectrum-accordion-icon-height, var(--spectrum-global-dimension-size-125)) / 2);
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.spectrum-Accordion-ChevronIcon {
+    padding: 6px !important;
+}
+
+.arrow-bg {
+    color: #1473e6 !important;
+}
+
+.spectrum-Accordion-itemContent,
+.spectrum-Accordion-itemContent p {
+    padding-left: 12px !important;
+    font-size: 16px;
+}
+
+h1,
+p {
+    font-family: 'adobe-clean' !important;
+}

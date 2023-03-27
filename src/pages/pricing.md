@@ -9,7 +9,7 @@ keywords:
   - SDK
   - C++
   - Scripting
-title: Photoshop API Pricing 
+title: Photoshop API Pricing
 ---
 
 import '../customizations/index.css'
@@ -20,8 +20,7 @@ import '../customizations/index.css'
 
 ## Adobe Photoshop API
 
-Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud. To learn more about Enterprise pricing please contact our sales team.
-
+Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud.
 
 
 <TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
@@ -39,7 +38,7 @@ $0, no commitment<br /><br />
 - Lowest level queuing for API traffic
 - Tech Support: 72 hours turnaround time on technical issues
 
-<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
+<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%"  />
 
 ## SMB/Individual Developer
 
@@ -47,8 +46,8 @@ $0.15 per API call<br /><br />
 
 <div class="custom-text-sub"></div>
 
-* [Subscribe on AWS (U.S. only)](https://aws.amazon.com/marketplace/pp/prodview-uv7tqlk5idzpg?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
-* [Subscribe on AWS (International)](https://aws.amazon.com/marketplace/pp/prodview-w4klf4hkd6mqq?sr=0-4&ref_=beagle&applicationId=AWS-Marketplace-Console)
+* [Subscribe on AWS (U.S. only)](https://aws.amazon.com/marketplace/pp/prodview-buj47owc7mnls?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
+* [Subscribe on AWS (International)](https://aws.amazon.com/marketplace/pp/prodview-tuhreceyioyng?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
 
 - Up to 1 million API calls per year
 - One credential per paid account
@@ -79,7 +78,7 @@ Custom pricing<br /><br />
 - Access to technical consultations to help you build your solution
 - Full production feature access
 
-<TextBlock slots="heading, text, buttons" theme="dark" isCentered/>
+<TextBlock slots="heading, text, buttons" className="pricing-contact-us" theme="dark" isCentered/>
 
 ## We’re here to help
 
@@ -87,3 +86,18 @@ Need more information to decide? <br/><br/>
 
 * [Try demo](demo.md)
 * [Contact us](https://psd-services.zendesk.com/hc/en-us/requests/new)
+
+
+
+
+[//]: # (-----------------------------------Summary Section --------------------------------------------------------)
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="pricing-summary"/>
+
+![](images/Adobe_io_illustration_banner_3x.png)
+
+## Unlock the power of Photoshop APIs, now in the cloud
+
+Sign up now to get access to the world’s standard in game-changing imaging technology.
+
+* [Start free trial](signup.md?ref=signup)
+* [Try demo](demo.md)

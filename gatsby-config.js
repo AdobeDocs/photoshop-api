@@ -10,14 +10,14 @@
  * governing permissions and limitations under the License.
  */
 
-module.exports = {
-  siteMetadata: {
-    pages: [
-      {
-        title: 'Photoshop API',
-        path: 'index.md'
-      },
-      {
+ module.exports = {
+   siteMetadata: {
+     pages: [
+       {
+         title: 'Photoshop API',
+         path: 'index.md'
+       },
+       {
         title: 'Demo',
         path: 'demo.md'
       },
@@ -26,17 +26,26 @@ module.exports = {
         path: 'pricing.md'
       },
       {
-        title: 'FAQ',
-        path: 'faq.md'
+        title: 'View Docs',
+        path: 'https://www.adobe.com/go/photoshop-api-docs-home'
       },
       {
-        title: 'Get Started',
-        path: 'signup.md?ref=signup'
-      }
+        title: 'Support',
+        menu:[{
+          title: 'FAQ',
+          path:'faq.md'
+        }, {
+          title: 'Submit a ticket',
+          path: 'https://psd-services.zendesk.com/hc/en-us/requests/new'
+        }, {
+          title: 'Community Forums',
+          path: 'https://community.adobe.com/t5/photoshop-developers/ct-p/ct-photoshop-developers?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-psautomationapi'
+        }]
+      },
     ],
     docs: {
-      title: 'View Docs',
-      path: 'https://www.adobe.com/go/photoshop-api-docs-home'
+      title: 'Get Started',
+      path: 'signup.md?ref=signup'
     }
   },
   plugins: [`@adobe/gatsby-theme-aio`],
