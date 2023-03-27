@@ -1,27 +1,3 @@
----
-keywords:
-  - Creative Cloud
-  - API Documentation
-  - UXP
-  - Plugins
-  - JavaScript
-  - ExtendScript
-  - SDK
-  - C++
-  - Scripting
-title: Photoshop API FAQ
----
-
-import '../customizations/index.css'
-
-
-<Hero className="custom-height" slots="image, heading" variant="fullwidth" background="rgb(12, 50, 63)" />
-
-![](images/Adobe_io_illustration_banner_3x.png)
-
-# Frequently Asked Questions
-
-
 ## General
 
 <Accordion>

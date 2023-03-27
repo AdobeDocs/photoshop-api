@@ -33,7 +33,7 @@
         title: 'Support',
         menu:[{
           title: 'FAQ',
-          path:'faq.md'
+          path:'/faq'
         }, {
           title: 'Submit a ticket',
           path: 'https://psd-services.zendesk.com/hc/en-us/requests/new'
