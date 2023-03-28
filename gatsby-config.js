@@ -49,5 +49,5 @@
     }
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || '/photoshoptest/api/'
+  pathPrefix: process.env.PATH_PREFIX || '/photoshop/api/'
 };
