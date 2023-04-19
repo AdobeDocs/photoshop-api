@@ -33,31 +33,11 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
                 });
 
             document
-                .querySelector(".index-value-prop-a")
-                ?.setAttribute("daa-lh", "index-value-prop-a");
+                .querySelector(".index-sdk")
+                ?.setAttribute("daa-lh", "index-sdk");
 
             document
-                .querySelectorAll(".index-value-prop-a a")
-                .forEach(link => {
-                    link.setAttribute("daa-ll", link.textContent);
-                });
-
-            document
-                .querySelector(".index-value-prop-b")
-                ?.setAttribute("daa-lh", "index-value-prop-b");
-
-            document
-                .querySelectorAll(".index-value-prop-b a")
-                .forEach(link => {
-                    link.setAttribute("daa-ll", link.textContent);
-                });
-
-            document
-                .querySelector(".index-value-prop-c")
-                ?.setAttribute("daa-lh", "index-value-prop-c");
-
-            document
-                .querySelectorAll(".index-value-prop-c a")
+                .querySelectorAll(".index-sdk a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });

@@ -21,6 +21,17 @@ Our Photoshop APIs save you time so you can focus on creating.
 * [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
 
+[//]: # (-----------------------------------SDK Section--------------------------------------------------------)
+<TextBlock slots="heading, text1, buttons" theme="light" isCentered
+className="sdk"/>
+
+### Try our new SDK.
+
+Be the first to try our SDK to help accelerate your time to market.
+
+* [View SDK](https://github.com/adobe/adobe-photoshop-api-sdk)
+
+
 [//]: # (-----------------------------------Three Up Section --------------------------------------------------------)
 <TextBlock slots="heading, text" width="33%" theme="lightest" isCentered className="index-value-prop-a" />
 
