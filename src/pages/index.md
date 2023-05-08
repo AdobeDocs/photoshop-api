@@ -178,7 +178,7 @@ className="index-contact-us"/>
 
 Our team of technical consultants have helped countless partners build the right things.
 
-* [Contact us](https://calendly.com/brianbabbitt/30min)
+* [Contact us](https://calendly.com/aposada/30min)
 
 
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)
