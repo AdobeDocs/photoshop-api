@@ -38,7 +38,7 @@ $0, no commitment<br /><br />
 - Lowest level queuing for API traffic
 - Tech Support: 72 hours turnaround time on technical issues
 
-<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%"  />
+<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
 
 ## SMB/Individual Developer
 

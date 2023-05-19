@@ -133,41 +133,11 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
                 });
 
             document
-                .querySelector(".remove-background-sdk-sign-up")
-                ?.setAttribute("daa-lh", "remove-background-sdk-sign-up")
+                .querySelector(".remove-background-view-sdk")
+                ?.setAttribute("daa-lh", "remove-background-view-sdk")
 
             document
-                .querySelectorAll(".remove-background-sdk-sign-up a")
-                .forEach(link => {
-                    link.setAttribute("daa-ll", link.textContent);
-                });
-
-            document
-                .querySelector(".remove-background-value-prop-a")
-                ?.setAttribute("daa-lh", "remove-background-value-prop-a")
-
-            document
-                .querySelectorAll(".remove-background-value-prop-a a")
-                .forEach(link => {
-                    link.setAttribute("daa-ll", link.textContent);
-                });
-
-            document
-                .querySelector(".remove-background-value-prop-b")
-                ?.setAttribute("daa-lh", "remove-background-value-prop-b")
-
-            document
-                .querySelectorAll(".remove-background-value-prop-b a")
-                .forEach(link => {
-                    link.setAttribute("daa-ll", link.textContent);
-                });
-
-            document
-                .querySelector(".remove-background-value-prop-c")
-                ?.setAttribute("daa-lh", "remove-background-value-prop-c")
-
-            document
-                .querySelectorAll(".remove-background-value-prop-c a")
+                .querySelectorAll(".remove-background-view-sdk a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
