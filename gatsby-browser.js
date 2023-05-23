@@ -161,6 +161,51 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
+            document
+                .querySelector(".pricing-free-trial")
+                ?.setAttribute("daa-lh", "pricing-free-trial")
+
+            document
+                .querySelectorAll(".pricing-free-trial a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+            document
+                  .querySelector(".pricing-smb")
+                  ?.setAttribute("daa-lh", "pricing-smb")
+
+            document
+                .querySelectorAll(".pricing-smb a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+            document
+                  .querySelector(".pricing-enterprise")
+                  ?.setAttribute("daa-lh", "pricing-enterprise")
+
+            document
+                .querySelectorAll(".pricing-enterpise a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+            document
+                  .querySelector(".pricing-contact-us")
+                  ?.setAttribute("daa-lh", "pricing-contact-us")
+
+            document
+                .querySelectorAll(".pricing-contact-us a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
+            document
+                  .querySelector(".pricing-summary")
+                  ?.setAttribute("daa-lh", "pricing-summary")
+
+            document
+                .querySelectorAll(".pricing-summary a")
+                .forEach(link => {
+                    link.setAttribute("daa-ll", link.textContent);
+                });
 
         } else if(window.location.pathname.indexOf("demo") >= 0) {
 

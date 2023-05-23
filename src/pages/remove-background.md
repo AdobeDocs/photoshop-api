@@ -114,9 +114,6 @@ curl -X POST \
 ```
 
 
-
-
-
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="remove-background-summary"/>
 
