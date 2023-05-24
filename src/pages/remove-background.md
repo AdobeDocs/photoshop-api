@@ -85,25 +85,25 @@ Generate thousands of assets and renditions to get your marketing campaigns laun
 
 ![EMPTY_ALT](images/s_createpdf_color_24.svg)
 
-<CreatePdfFromUrl/>
+<RemoveBackgroundCodeBlock/>
 
 ### Dynamic PDF Document Generation
 
 ![EMPTY_ALT](images/ic-dynamic-pdf-gen-40.svg)
 
-<DynamicPdfDocumentGeneration/>
+<RemoveBackgroundCodeBlock/>
 
 ### Extract PDF Content & Structure
 
 ![EMPTY_ALT](images/ic-extract-40.svg)
 
-<ExtractPdfContentStructure/>
+<RemoveBackgroundCodeBlock/>
 
 ### Embed PDF for viewing and analytics
 
 ![EMPTY_ALT](images/embed.svg)
 
-<EmbedPdfViewingAnalytics/>
+<RemoveBackgroundCodeBlock/>
 
 ### Auto-tag PDF
 
