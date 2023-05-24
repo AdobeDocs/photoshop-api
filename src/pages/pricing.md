@@ -78,7 +78,7 @@ Custom pricing<br /><br />
 - Access to technical consultations to help you build your solution
 - Full production feature access
 
-<TextBlock slots="heading, text, buttons" className="pricing-contact-us" theme="dark" isCentered className="pricing-contact-us"/>
+<TextBlock slots="heading, text, buttons" theme="dark" isCentered className="pricing-contact-us"/>
 
 ## We’re here to help
 
