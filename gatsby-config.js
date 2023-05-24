@@ -18,6 +18,10 @@
          path: 'index.md'
        },
        {
+         title: 'Remove Background',
+         path: 'remove-background.md'
+       },
+       {
         title: 'Demo',
         path: 'demo.md'
       },

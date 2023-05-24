@@ -23,7 +23,7 @@ import '../customizations/index.css'
 Sign up now for a free trial to unlock the world’s standard in imaging technology in the cloud.
 
 
-<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
+<TextBlock slots="heading, text1, text2, midbuttons, bullet" width="33%" className="pricing-free-trial custom-text"/>
 
 ## Free trial
 
@@ -38,7 +38,7 @@ $0, no commitment<br /><br />
 - Lowest level queuing for API traffic
 - Tech Support: 72 hours turnaround time on technical issues
 
-<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%"  />
+<TextBlock slots="heading, text1, text2, midbuttons, bullet" width="33%" className="pricing-smb custom-text"/>
 
 ## SMB/Individual Developer
 
@@ -57,7 +57,7 @@ $0.15 per API call<br /><br />
 - Tech Support: 24-48 hour SLA via online ticketing system
 - Production level access
 
-<TextBlock class="custom-text" slots="heading, text1, text2, midbuttons, bullet" width="33%" />
+<TextBlock slots="heading, text1, text2, midbuttons, bullet" width="33%" className="pricing-enterprise custom-text"/>
 
 ## Enterprise
 
@@ -78,7 +78,7 @@ Custom pricing<br /><br />
 - Access to technical consultations to help you build your solution
 - Full production feature access
 
-<TextBlock slots="heading, text, buttons" className="pricing-contact-us" theme="dark" isCentered/>
+<TextBlock slots="heading, text, buttons" theme="dark" isCentered className="pricing-contact-us"/>
 
 ## We’re here to help
 

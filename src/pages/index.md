@@ -22,10 +22,9 @@ Our Photoshop APIs save you time so you can focus on creating.
 * [Try demo](demo.md)
 
 [//]: # (-----------------------------------SDK Section--------------------------------------------------------)
-<TextBlock slots="heading, text1, buttons" theme="light" isCentered
-className="index-sdk"/>
+<TextBlock slots="heading, text1, buttons" theme="light" isCentered className="index-sdk"/>
 
-### Try our new Beta SDK.
+### Try our new SDK.
 
 Be the first to try our SDK to help accelerate your time to market.
 
