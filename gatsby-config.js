@@ -19,7 +19,7 @@
        },
        {
          title: 'Remove Background',
-         path: 'remove-background'
+         path: 'remove-background.md'
        },
        {
         title: 'Demo',
