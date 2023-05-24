@@ -184,7 +184,7 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
                   ?.setAttribute("daa-lh", "pricing-enterprise")
 
             document
-                .querySelectorAll(".pricing-enterpise a")
+                .querySelectorAll(".pricing-enterprise a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
