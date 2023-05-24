@@ -17,6 +17,9 @@ keywords:
   - Scripting
 title: Photoshop API
 ---
+import CreatePdfFromUrl from './home/create-pdf-from-url.md';
+import RemoveBackgroundCodeBlock from './home/remove-background-code-block.md';
+
 [//]: # (-----------------------------------Hero Section--------------------------------------------------------)
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="remove-background-hero" />
 
@@ -75,43 +78,36 @@ Generate thousands of assets and renditions to get your marketing campaigns laun
 
 
 
-<CodeBlock slots="heading, code" repeat="2" languages="JSON, CURL, JSON" />
+<TabsBlock orientation="vertical" slots="heading, image, content" APIReference = "https://developer.adobe.com/document-services/docs/apis/"  repeat="5"  theme="dark" className='bgBlue code-block-0 Designed-for-developers  home-code-block tabBlockAlign'/>
 
 
-### Request
+### Remove
 
-```bash
-curl -X POST \
-  https://image.adobe.io/sensei/cutout \
-  -H "Authorization: Bearer $token"  \
-  -H "x-api-key: $apiKey" \
-  -H "Content-Type: application/json" \
-  -d '{
-   "input":{
-      "storage":"<storage>",
-      "href":"<SIGNED_GET_URL>"
-   },
-   "output":{
-      "storage":"<storage>",
-      "href":"<SIGNED_POST_URL>",
-      "mask":{
-         "format":"soft"
-      }
-   }
-}'
-```
+![EMPTY_ALT](images/s_createpdf_color_24.svg)
 
-### Response
+<CreatePdfFromUrl/>
 
-```json
-{
-  "_links": {
-    "self": {
-      "href": "https://image.adobe.io/sensei/status/<:jobId>"
-    }
-  }
-}  
-```
+### Dynamic PDF Document Generation
+
+![EMPTY_ALT](images/ic-dynamic-pdf-gen-40.svg)
+
+<DynamicPdfDocumentGeneration/>
+
+### Extract PDF Content & Structure
+
+![EMPTY_ALT](images/ic-extract-40.svg)
+
+<ExtractPdfContentStructure/>
+
+### Embed PDF for viewing and analytics
+
+![EMPTY_ALT](images/embed.svg)
+
+<EmbedPdfViewingAnalytics/>
+
+### Auto-tag PDF
+
+![EMPTY_ALT](images/autotagIcon.svg)
 
 
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)
