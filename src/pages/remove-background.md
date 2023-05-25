@@ -17,8 +17,9 @@ keywords:
   - Scripting
 title: Photoshop API
 ---
-import CreatePdfFromUrl from './home/create-pdf-from-url.md';
-import RemoveBackgroundCodeBlock from './home/remove-background-code-block.md';
+import '../styles/rbg-code.css'
+import RbgCodeBlock from './code-blocks/remove-background-code-block.md';
+import GenMask from './code-blocks/generate-mask-code-block.md';
 
 [//]: # (-----------------------------------Hero Section--------------------------------------------------------)
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="remove-background-hero" />
@@ -69,7 +70,6 @@ Scale the number of product listings you have and easily create multiple variati
 
 
 
-
 <TextBlock slots="heading, text" width="33%" theme="lightest" isCentered />
 
 ### Go to market faster
@@ -78,36 +78,21 @@ Generate thousands of assets and renditions to get your marketing campaigns laun
 
 
 
-<TabsBlock orientation="vertical" slots="heading, image, content" APIReference = "https://developer.adobe.com/document-services/docs/apis/"  repeat="5"  theme="dark" className='bgBlue code-block-0 Designed-for-developers  home-code-block tabBlockAlign'/>
+<TabsBlock orientation="vertical" slots="heading, image, content" APIReference = "https://developer.adobe.com/photoshop/photoshop-api-docs/"  repeat="2"  theme="dark" className='bgBlue code-block-0 Designed-for-developers  home-code-block tabBlockAlign'/>
 
 
-### Remove
+### Remove Background
 
-![EMPTY_ALT](images/s_createpdf_color_24.svg)
+![EMPTY_ALT](images/ad-reflow.png)
 
-<CreatePdfFromUrl/>
+<RbgCodeBlock/>
 
-### Dynamic PDF Document Generation
+### Generate Image Mask
 
-![EMPTY_ALT](images/ic-dynamic-pdf-gen-40.svg)
+![EMPTY_ALT](images/image-cutout.png)
 
-<DynamicPdfDocumentGeneration/>
+<GenMask/>
 
-### Extract PDF Content & Structure
-
-![EMPTY_ALT](images/ic-extract-40.svg)
-
-<ExtractPdfContentStructure/>
-
-### Embed PDF for viewing and analytics
-
-![EMPTY_ALT](images/embed.svg)
-
-<EmbedPdfViewingAnalytics/>
-
-### Auto-tag PDF
-
-![EMPTY_ALT](images/autotagIcon.svg)
 
 
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)

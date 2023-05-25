@@ -12,7 +12,7 @@ keywords:
 title: Photoshop API FAQ
 ---
 
-import '../../customizations/index.css'
+import '/Users/aposada/Library/CloudStorage/OneDrive-Adobe/Projects/Easybake/photoshop-api/src/styles/faq.css'
 import FAQContent from "./faq.md"
 
 <Hero className="custom-height" slots="image, heading" variant="fullwidth" background="rgb(12, 50, 63)" />
