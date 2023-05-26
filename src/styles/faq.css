@@ -1,44 +1,13 @@
-.custom-height {
-  height: 350px !important;
-}
+@charset "UTF-8";
 
-.custom-text {
-  text-align: left !important;
-  align-items: left !important;
-}
-
-.custom-text div {
-  max-width: 500px;
-}
-
-.custom-text-sub {
-  padding-bottom: -20px;
-}
-
-.custom-text ul {
-  padding-top: 20px;
-  padding-left: 20px;
-  list-style: none;
-}
-.custom-text li { margin-bottom: 12px; }
-.custom-text li:before {
-  content: '\2714\0020';
-  color: #009966;
-  margin:0 5px 0 -15px;
+h1 {
+    font-family: "adobe-clean" !important;
 }
 
 /* faq page  */
-
-.faq-editor-page {
-    height: 100px !important;
+.faqContent .spectrum-Heading a{
+    display: unset
 }
-
-.faq-editor-page>div {
-    justify-content: center !important;
-    align-items: flex-start !important;
-    padding-left: 15% !important;
-}
-
 .faqContent {
     width: 50% !important;
     margin: auto !important;
@@ -60,8 +29,9 @@
 .spectrum-Accordion-itemHeader {
     padding-left: 0px !important;
     color: var(--spectrum-listitem-m-text-color-hover, var(--spectrum-alias-text-color));
-    font-size: 18px !important;
+    font-size: 16px !important;
     font-weight: var(--spectrum-global-font-weight-bold) !important;
+    text-transform: inherit !important;
 }
 
 .spectrum-Accordion-itemIndicator {
@@ -84,9 +54,4 @@
 .spectrum-Accordion-itemContent p {
     padding-left: 12px !important;
     font-size: 16px;
-}
-
-h1,
-p {
-    font-family: 'adobe-clean' !important;
 }
