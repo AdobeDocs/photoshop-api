@@ -11,6 +11,8 @@ jobs:
         uses: actions/checkout@v3
       - name: Yarn install
         uses: borales/actions-yarn@v4
+        env:
+          YARN_ENABLE_IMMUTABLE_INSTALLS: false
         with:
           cmd: install # will run `yarn install` command
       - name: Build
