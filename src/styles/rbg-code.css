@@ -4,12 +4,11 @@ h1 {
     font-family: "adobe-clean" !important;
 }
 
-.tabsBlock .tabItem:hover, .tabsBlock .tabItem.is-selected {
-    color: var(--spectrum-global-color-gray-900);
-    border-radius: var(--spectrum-global-dimension-size-50);
+.code-block-0 {
+    padding-top: 0 !important;
 }
-.spectrum--dark.tabsBlock .spectrum-Tabs .spectrum-Tabs-item.tabItem:hover, .spectrum--dark.tabsBlock .spectrum-Tabs .spectrum-Tabs-item.is-selected.tabItem {
-    color: var(--spectrum-global-color-gray-50);
+.tabBlockAlign > div > div > div > div > div > span {
+    line-height: initial !important;
 }
 .bgBlue {
     background-color: #202947 !important;

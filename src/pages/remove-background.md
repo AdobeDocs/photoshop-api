@@ -60,14 +60,11 @@ Removing the background easily allows you to change the look of your products wi
 Leverage our API models to automatically remove backgrounds from your images and make them stand out from the rest.
 
 
-
-
 <TextBlock slots="heading, text" width="33%" theme="lightest" isCentered />
 
 ### Easy integration
 
 Scale the number of product listings you have and easily create multiple variations, all while seamlessly integrating them into your existing internal tools and workflows.
-
 
 
 <TextBlock slots="heading, text" width="33%" theme="lightest" isCentered />
@@ -76,6 +73,16 @@ Scale the number of product listings you have and easily create multiple variati
 
 Generate thousands of assets and renditions to get your marketing campaigns launched sooner.
 
+
+[//]: # (-----------------------------------Code Block Section --------------------------------------------------------)
+
+<DCSummaryBlock slots="heading, text, buttons"  background="rgb(31, 42, 73)" buttonPositionRight className="Designed-for-developers" />
+
+## Designed for developers
+
+Use our cloud-based REST APIs and SDKs designed for developers to build new, innovative image editing solutions. Our Remove background APIs allow you to build custom workflows for creating marketing assets, product mockups and more. Get started in minutes with our beta SDK for Node.js,
+
+- [Start free trial](signup.md?ref=signup)
 
 
 <TabsBlock orientation="vertical" slots="heading, image, content" APIReference = "https://developer.adobe.com/photoshop/photoshop-api-docs/"  repeat="2"  theme="dark" className='bgBlue code-block-0 Designed-for-developers  home-code-block tabBlockAlign'/>
@@ -92,17 +99,3 @@ Generate thousands of assets and renditions to get your marketing campaigns laun
 ![EMPTY_ALT](images/image-cutout.png)
 
 <GenMask/>
-
-
-
-[//]: # (-----------------------------------Summary Section --------------------------------------------------------)
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="remove-background-summary"/>
-
-![](images/Adobe_io_illustration_banner_3x.png)
-
-## Unlock the power of Photoshop APIs, now in the cloud
-
-Sign up now to get access to the world’s standard in game-changing imaging technology.
-
-* [Start free trial](signup.md?ref=signup)
-* [Try demo](demo.md)

@@ -1,11 +1,3 @@
-<TextBlock slots="heading, buttons, text" theme="dark" hasCodeBlock className="bgBlue showMobileView"/>
-
-##### Remove background
-
-- [Try demo](demo.md)
-
-Removing backgrounds at scale is a valuable tool for businesses that need to create numerous images, such as e-commerce businesses or marketing agencies.
-
 <CodeBlock slots="heading, code" repeat="2" languages="curl, js" />
 
 #### cURL

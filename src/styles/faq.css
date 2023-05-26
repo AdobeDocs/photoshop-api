@@ -5,16 +5,9 @@ h1 {
 }
 
 /* faq page  */
-.faq-editor-page {
-    height: 100px !important;
+.faqContent .spectrum-Heading a{
+    display: unset
 }
-
-.faq-editor-page>div {
-    justify-content: center !important;
-    align-items: flex-start !important;
-    padding-left: 15% !important;
-}
-
 .faqContent {
     width: 50% !important;
     margin: auto !important;

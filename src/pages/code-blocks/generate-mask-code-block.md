@@ -1,11 +1,3 @@
-<TextBlock slots="heading, buttons, text" theme="dark" hasCodeBlock className="bgBlue showMobileView"/>
-
-##### Remove background
-
-- [See documentation](/document-services/docs/overview/pdf-services-api/)
-
-The API can also be used to remove backgrounds from images in bulk. This can be a valuable tool for businesses that need to create numerous images, such as e-commerce businesses or marketing agencies.
-
 <CodeBlock slots="heading, code" repeat="2" languages="curl, js" />
 
 #### cURL
