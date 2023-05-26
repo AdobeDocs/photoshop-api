@@ -17,10 +17,6 @@ keywords:
   - Scripting
 title: Photoshop API
 ---
-import '../styles/rbg-code.css'
-import RbgCodeBlock from './code-blocks/remove-background-code-block.md';
-import GenMask from './code-blocks/generate-mask-code-block.md';
-
 [//]: # (-----------------------------------Hero Section--------------------------------------------------------)
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="remove-background-hero" />
 
@@ -60,11 +56,15 @@ Removing the background easily allows you to change the look of your products wi
 Leverage our API models to automatically remove backgrounds from your images and make them stand out from the rest.
 
 
+
+
 <TextBlock slots="heading, text" width="33%" theme="lightest" isCentered />
 
 ### Easy integration
 
 Scale the number of product listings you have and easily create multiple variations, all while seamlessly integrating them into your existing internal tools and workflows.
+
+
 
 
 <TextBlock slots="heading, text" width="33%" theme="lightest" isCentered />
@@ -74,28 +74,54 @@ Scale the number of product listings you have and easily create multiple variati
 Generate thousands of assets and renditions to get your marketing campaigns launched sooner.
 
 
-[//]: # (-----------------------------------Code Block Section --------------------------------------------------------)
 
-<DCSummaryBlock slots="heading, text, buttons"  background="rgb(31, 42, 73)" buttonPositionRight className="Designed-for-developers" />
-
-## Designed for developers
-
-Use our cloud-based REST APIs and SDKs designed for developers to build new, innovative image editing solutions. Our Remove background APIs allow you to build custom workflows for creating marketing assets, product mockups and more. Get started in minutes with our beta SDK for Node.js,
-
-- [Start free trial](signup.md?ref=signup)
+<CodeBlock slots="heading, code" repeat="2" languages="JSON, CURL, JSON" />
 
 
-<TabsBlock orientation="vertical" slots="heading, image, content" APIReference = "https://developer.adobe.com/photoshop/photoshop-api-docs/"  repeat="2"  theme="dark" className='bgBlue code-block-0 Designed-for-developers  home-code-block tabBlockAlign'/>
+### Request
+
+```bash
+curl -X POST \
+  https://image.adobe.io/sensei/cutout \
+  -H "Authorization: Bearer $token"  \
+  -H "x-api-key: $apiKey" \
+  -H "Content-Type: application/json" \
+  -d '{
+   "input":{
+      "storage":"<storage>",
+      "href":"<SIGNED_GET_URL>"
+   },
+   "output":{
+      "storage":"<storage>",
+      "href":"<SIGNED_POST_URL>",
+      "mask":{
+         "format":"soft"
+      }
+   }
+}'
+```
+
+### Response
+
+```json
+{
+  "_links": {
+    "self": {
+      "href": "https://image.adobe.io/sensei/status/<:jobId>"
+    }
+  }
+}  
+```
 
 
-### Remove Background
+[//]: # (-----------------------------------Summary Section --------------------------------------------------------)
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="remove-background-summary"/>
 
-![EMPTY_ALT](images/ad-reflow.png)
+![](images/Adobe_io_illustration_banner_3x.png)
 
-<RbgCodeBlock/>
+## Unlock the power of Photoshop APIs, now in the cloud
 
-### Generate Image Mask
+Sign up now to get access to the world’s standard in game-changing imaging technology.
 
-![EMPTY_ALT](images/image-cutout.png)
-
-<GenMask/>
+* [Start free trial](signup.md?ref=signup)
+* [Try demo](demo.md)

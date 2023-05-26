@@ -12,7 +12,7 @@ keywords:
 title: Photoshop API Pricing
 ---
 
-import '../styles/pricing.css'
+import '../customizations/index.css'
 
 <Hero class="custom-height" slots="image, heading, text" variant="fullwidth" background="rgb(12, 50, 63)"/>
 
