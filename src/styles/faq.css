@@ -29,8 +29,9 @@ h1 {
 .spectrum-Accordion-itemHeader {
     padding-left: 0px !important;
     color: var(--spectrum-listitem-m-text-color-hover, var(--spectrum-alias-text-color));
-    font-size: 18px !important;
+    font-size: 16px !important;
     font-weight: var(--spectrum-global-font-weight-bold) !important;
+    text-transform: inherit !important;
 }
 
 .spectrum-Accordion-itemIndicator {
