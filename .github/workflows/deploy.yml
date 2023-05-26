@@ -95,6 +95,7 @@ jobs:
         uses: borales/actions-yarn@v3
         env:
           YARN_ENABLE_IMMUTABLE_INSTALLS: false
+          YARN_CHECKSUM_BEHAVIOR: update
         with:
           cmd: install
 
@@ -200,6 +201,7 @@ jobs:
         uses: borales/actions-yarn@v3
         env:
           YARN_ENABLE_IMMUTABLE_INSTALLS: false
+          YARN_CHECKSUM_BEHAVIOR: update
         with:
           cmd: install
 
