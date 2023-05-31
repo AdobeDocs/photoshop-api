@@ -6,12 +6,22 @@
 // Please refer to our API Reference guide here:
 // https://developer.adobe.com/photoshop/photoshop-api-docs/api/#tag/Photoshop/operation/cutout
 
-curl --location --request POST 'https://pdf-services.adobe.io/operation/createpdf' \
---header 'x-api-key: {{Placeholder for client_id}}' \
---header 'Content-Type: application/json' \
---header 'Authorization: Bearer {{Placeholder for token}}' \
---data-raw '{
-    "assetID": "urn:aaid:AS:UE1:23c30ee0-2e4d-46d6-87f2-087832fca718"
+curl -X POST 'https://image.adobe.io/sensei/mask' \
+  -H "x-api-key: $apiKey" \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -H "Authorization: Bearer $token" \
+  -d '{
+   "input":{
+      "storage":"<storage>",
+      "href":"<href>"
+   },
+   "output":{
+      "storage":"<storage>",
+      "href":"<href>"
+      "mask":{
+         "format":"<soft|binary>"
+      }
+   }
 }'
 ```
 
