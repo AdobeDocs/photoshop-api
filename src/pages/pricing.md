@@ -33,7 +33,7 @@ $0, no commitment<br /><br />
 
 * [Get Started](../signup/?ref=signup)
 
-- Free trial usage up to 5,000 API calls
+- Free trial usage up to 500 API calls
 - Trial access only: no production usage
 - Lowest level queuing for API traffic
 - Tech Support: 72 hours turnaround time on technical issues
