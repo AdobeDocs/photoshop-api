@@ -17,7 +17,7 @@ import FAQContent from "./faq.md"
 
 <Hero className="custom-height" slots="image, heading" variant="fullwidth" background="rgb(12, 50, 63)" />
 
-![](../images/Adobe_io_illustration_banner_3x.png)
+![](../images/ps_api_hero.png)
 
 # Frequently Asked Questions
 
