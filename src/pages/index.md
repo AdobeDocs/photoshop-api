@@ -12,7 +12,7 @@ keywords:
 [//]: # (-----------------------------------Hero Section--------------------------------------------------------)
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(12, 50, 63)" className="index-hero" />
 
-![](images/ps_api_hero.png)
+![](images/Adobe_io_illustration_banner_3x.png)
 
 # Unlock the power of Photoshop
 
@@ -183,7 +183,7 @@ Our team of technical consultants have helped countless partners build the right
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="index-summary"/>
 
-![](images/ps_api_hero.png)
+![](images/Adobe_io_illustration_banner_3x.png)
 
 ## Unlock the power of Photoshop APIs, now in the cloud
 
