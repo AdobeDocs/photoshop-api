@@ -4,22 +4,22 @@
 
 ```bash
 curl -X POST \
-  https://image.adobe.io/lrService/autoTone \
+  https://image.adobe.io/sensei/mask \
   -H "Authorization: Bearer $token"  \
   -H "x-api-key: $apiKey" \
   -H "Content-Type: application/json" \
   -d '{
-    "inputs": {
-        "href": "<SIGNED_GET_URL>",
-        "storage": "<storage>"
-    },
-    "outputs": [
-        {
-            "href": "<SIGNED_POST_URL>",
-            "type": "<type>",
-            "storage": "<storage>"
-        }
-    ]
+   "input":{
+      "storage":"<storage>",
+      "href":"<SIGNED_GET_URL>"
+   },
+   "output":{
+      "storage":"<storage>",
+      "href":"<SIGNED_POST_URL>",
+      "mask":{
+         "format":"soft"
+      }
+   }
 }'
 ```
 

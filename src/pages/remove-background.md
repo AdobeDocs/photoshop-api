@@ -82,16 +82,16 @@ Generate thousands of assets and renditions to get your marketing campaigns laun
 
 [//]: # (-----------------------------------Code Block Section --------------------------------------------------------)
 
-<DCSummaryBlock slots="heading, text, buttons"  background="rgb(31, 42, 73)" buttonPositionRight className="Designed-for-developers" />
+<DCSummaryBlock slots="heading, text, buttons"  background="rgb(31, 42, 73)" buttonPositionRight className="remove-background-code" />
 
 ## Designed for developers
 
-Use our cloud-based REST APIs and SDKs designed for developers to build new, innovative image editing solutions. Our Remove background APIs allow you to build custom workflows for creating marketing assets, product mockups and more. Get started in minutes with our beta SDK for Node.js,
+Use our cloud-based REST APIs and SDKs designed for developers to build new, innovative image editing solutions. Our Remove background APIs allow you to build custom workflows for creating marketing assets, product mockups and more. Get started in minutes with our beta SDK for Node.js.
 
 - [Start free trial](signup.md?ref=signup)
 
 
-<TabsBlock orientation="vertical" slots="heading, content" APIReference = "https://developer.adobe.com/photoshop/photoshop-api-docs/"  repeat="2"  theme="dark" className='bgBlue code-block-0 Designed-for-developers  home-code-block tabBlockAlign'/>
+<TabsBlock orientation="vertical" slots="heading, content" APIReference = "https://developer.adobe.com/photoshop/photoshop-api-docs/"  repeat="2"  theme="dark" className='bgBlue code-block-0 remove-background-code  home-code-block tabBlockAlign'/>
 
 
 ### Remove Background
@@ -106,7 +106,7 @@ Use our cloud-based REST APIs and SDKs designed for developers to build new, inn
 
 
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="index-summary"/>
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="remove-background-summary"/>
 
 ![](images/rbgFooter.png)
 
