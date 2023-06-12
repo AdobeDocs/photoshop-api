@@ -143,11 +143,11 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
                 });
 
             document
-                .querySelector(".remove-background-contact-us")
-                ?.setAttribute("daa-lh", "remove-background-contact-us")
+                .querySelector(".remove-background-code")
+                ?.setAttribute("daa-lh", "remove-background-code")
 
             document
-                .querySelectorAll(".remove-background-contact-us a")
+                .querySelectorAll(".remove-background-code a")
                 .forEach(link => {
                     link.setAttribute("daa-ll", link.textContent);
                 });
