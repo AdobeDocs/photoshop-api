@@ -21,7 +21,7 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         });
 
         // check if on localhost or deployed somewhere
-        if (window.location.pathname === "/"|| window.location.pathname === "/photoshop/api/" ){
+        if (window.location.pathname === "/"|| window.location.pathname === "/photoshop/api/", "/photoshop/api/remove-background/", "/photoshop/api/pricing/" ){
             document
                 .querySelector(".index-hero")
                 ?.setAttribute("daa-lh", "index-hero");
