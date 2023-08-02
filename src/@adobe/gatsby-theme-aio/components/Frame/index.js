@@ -24,6 +24,7 @@ const Frame = ({ src, height = 'calc(100vh - var(--spectrum-global-dimension-siz
   const iframe = useRef(null);
   // some strangeness with ims not being set within context???
   const { ims, isLoadingIms } = useContext(Context);
+  let imsHack;
   const [child, setChild] = useState(null);
 
   // ensures connectToChild is called before the child calls connectToParent
@@ -42,6 +43,7 @@ const Frame = ({ src, height = 'calc(100vh - var(--spectrum-global-dimension-siz
   useEffect(() => {
     setConnectionReady(false);
     if (iframe != null && !isLoadingIms) {
+      imsHack = window.adobeIMS;
       const connection = createConnection();
 
       return () => {
@@ -77,32 +79,32 @@ const Frame = ({ src, height = 'calc(100vh - var(--spectrum-global-dimension-siz
           iframe.current.style.height = height;
         },
         getIMSAccessToken() {
-          if (ims?.isSignedInUser()) {
-            return ims.getAccessToken();
+          if (imsHack?.isSignedInUser()) {
+            return imsHack.getAccessToken();
           }
 
           return null;
         },
         getIMSProfile() {
-          if (ims?.isSignedInUser()) {
-            return ims.getProfile();
+          if (imsHack?.isSignedInUser()) {
+            return imsHack.getProfile();
           }
 
           return null;
         },
         signIn() {
-          if (ims && !ims.isSignedInUser()) {
-            ims.signIn();
+          if (imsHack && !imsHack.isSignedInUser()) {
+            imsHack.signIn();
           }
         },
         signOut() {
-          if (ims && ims.isSignedInUser()) {
-            ims.signOut();
+          if (imsHack && imsHack.isSignedInUser()) {
+            imsHack.signOut();
           }
         },
         getIMSClientId() {
-          if (ims) {
-            return ims.adobeIdData.client_id;
+          if (imsHack) {
+            return imsHack.adobeIdData.client_id;
           } else {
             return null;
           }
