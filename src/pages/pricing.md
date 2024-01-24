@@ -42,16 +42,14 @@ $0, no commitment<br /><br />
 
 ## SMB/Individual Developer
 
-$0.15 per API call<br /><br />
+Custom pricing<br /><br />
 
 <div class="custom-text-sub"></div>
 
-* [Subscribe on AWS (U.S. only)](https://aws.amazon.com/marketplace/pp/prodview-uv7tqlk5idzpg?sr=0-1&ref_=beagle&applicationId=AWS-Marketplace-Console)
-* [Subscribe on AWS (International)](https://aws.amazon.com/marketplace/pp/prodview-w4klf4hkd6mqq?sr=0-4&ref_=beagle&applicationId=AWS-Marketplace-Console)
+* [Contact sales](../signup/?ref=contactsales)
 
 - Up to 1 million API calls per year
 - One credential per paid account
-- Pay as you go billing
 - Billing and analytics provided through AWS Marketplace account
 - Higher level priority queuing for API traffic
 - Tech Support: 24-48 hour SLA via online ticketing system
