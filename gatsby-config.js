@@ -26,10 +26,6 @@
         path: 'demo.md'
       },
       {
-        title: 'Pricing',
-        path: 'pricing.md'
-      },
-      {
         title: 'View Docs',
         path: 'https://www.adobe.com/go/photoshop-api-docs-home'
       },
@@ -46,11 +42,7 @@
           path: 'https://community.adobe.com/t5/photoshop-developers/ct-p/ct-photoshop-developers?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-psautomationapi'
         }]
       },
-    ],
-    docs: {
-      title: 'Get Started',
-      path: 'signup.md?ref=signup'
-    }
+    ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
   pathPrefix: process.env.PATH_PREFIX || '/photoshop/api/'

@@ -18,8 +18,9 @@ keywords:
 
 Our Photoshop APIs save you time so you can focus on creating.
 
-* [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
+
+
 
 [//]: # (-----------------------------------SDK Section--------------------------------------------------------)
 <TextBlock slots="heading, text1, buttons" theme="light" isCentered className="index-sdk"/>
@@ -170,16 +171,6 @@ Automate entire workflows using Photoshop actions in the cloud.
 
 
 
-<TextBlock slots="heading, text1, buttons" theme="light" isCentered
-className="index-contact-us"/>
-
-### Let us help you build the right solution.
-
-Our team of technical consultants have helped countless partners build the right things.
-
-* [Contact us](https://calendly.com/photoshopapi/adobe-photoshop-api-discussion)
-
-
 [//]: # (-----------------------------------Summary Section --------------------------------------------------------)
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(12, 50, 63)" className="index-summary"/>
 
@@ -189,5 +180,4 @@ Our team of technical consultants have helped countless partners build the right
 
 Sign up now to get access to the world’s standard in game-changing imaging technology.
 
-* [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
