@@ -30,7 +30,6 @@ import GenMask from './code-blocks/generate-mask-code-block.md';
 
 Make creativity happen across thousands of images, all at once.
 
-* [Start free trial](signup.md?ref=signup)
 * [Try demo](demo.md)
 
 
@@ -82,13 +81,11 @@ Generate thousands of assets and renditions to get your marketing campaigns laun
 
 [//]: # (-----------------------------------Code Block Section --------------------------------------------------------)
 
-<DCSummaryBlock slots="heading, text, buttons"  background="rgb(31, 42, 73)" buttonPositionRight className="remove-background-code" />
+<DCSummaryBlock slots="heading, text"  background="rgb(31, 42, 73)" className="remove-background-code" />
 
 ## Designed for developers
 
 Use our cloud-based REST APIs and SDKs designed for developers to build new, innovative image editing solutions. Our Remove background APIs allow you to build custom workflows for creating marketing assets, product mockups and more. Get started in minutes with our beta SDK for Node.js.
-
-- [Start free trial](signup.md?ref=signup)
 
 
 <TabsBlock orientation="vertical" slots="heading, content" APIReference = "https://developer.adobe.com/photoshop/photoshop-api-docs/"  repeat="2"  theme="dark" className='bgBlue code-block-0 remove-background-code  home-code-block tabBlockAlign'/>
@@ -114,5 +111,5 @@ Use our cloud-based REST APIs and SDKs designed for developers to build new, inn
 
 Sign up now to get access to the world’s standard in game-changing imaging technology.
 
-* [Start free trial](signup.md?ref=signup)
+
 * [Try demo](demo.md)
