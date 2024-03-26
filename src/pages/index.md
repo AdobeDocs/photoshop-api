@@ -25,9 +25,9 @@ Our Photoshop APIs save you time so you can focus on creating.
 [//]: # (-----------------------------------SDK Section--------------------------------------------------------)
 <TextBlock slots="heading, text1, buttons" theme="light" isCentered className="index-sdk"/>
 
-### 
+### Photoshop API is offered in Adobe Frirefly Services
 
-Experience the power of the Photoshop API within Adobe Firefly Services.
+Produce content at scale by leveraging the power of Photoshop alongside generative AI services.
 
 * [Learn more](https://developer.adobe.com/firefly-services/)
 
