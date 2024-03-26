@@ -14,7 +14,7 @@ keywords:
 
 ![](images/ps_api_hero.png)
 
-# Unlock the power of Photoshop
+# Unlock the power of Photoshop 
 
 Our Photoshop APIs save you time so you can focus on creating.
 
@@ -25,11 +25,11 @@ Our Photoshop APIs save you time so you can focus on creating.
 [//]: # (-----------------------------------SDK Section--------------------------------------------------------)
 <TextBlock slots="heading, text1, buttons" theme="light" isCentered className="index-sdk"/>
 
-### Try our new SDK.
+### Photoshop API is offered in Adobe Frirefly Services
 
-Be the first to try our SDK to help accelerate your time to market.
+Produce content at scale by leveraging the power of Photoshop alongside generative AI services.
 
-* [View SDK](https://github.com/adobe/adobe-photoshop-api-sdk)
+* [Learn more](https://developer.adobe.com/firefly-services/)
 
 
 [//]: # (-----------------------------------Three Up Section --------------------------------------------------------)

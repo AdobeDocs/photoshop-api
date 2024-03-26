@@ -35,9 +35,6 @@
           title: 'FAQ',
           path:'/faq'
         }, {
-          title: 'Submit a ticket',
-          path: 'https://psd-services.zendesk.com/hc/en-us/requests/new'
-        }, {
           title: 'Community Forums',
           path: 'https://community.adobe.com/t5/photoshop-developers/ct-p/ct-photoshop-developers?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-psautomationapi'
         }]
