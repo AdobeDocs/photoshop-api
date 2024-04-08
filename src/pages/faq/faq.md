@@ -4,7 +4,7 @@
 
 <AccordionItem header="How do I purchase and what’s the cost?" isChevronIcon >
 
-We offer a variety of pricing options to fit your needs. You can learn more about our offers by visting our [pricing page.](pricing.md)
+The Photoshop API is currently availabe for Enterprise use. Please reach out to your Adobe Account Manager for more information. 
 
 </AccordionItem>
 
