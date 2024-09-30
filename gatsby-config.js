@@ -21,10 +21,10 @@
       //    title: 'Remove Background',
       //    path: 'remove-background.md'
       //  },
-       {
-        title: 'Demo',
-        path: 'demo.md'
-      },
+       //{
+        //title: 'Demo',
+       // path: 'demo.md'
+     // },
       {
         title: 'View Docs',
         path: 'https://www.adobe.com/go/photoshop-api-docs-home'
