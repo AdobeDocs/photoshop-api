@@ -5,10 +5,11 @@
 .vscode
 .history
 .idea
+.editorconfig
 
 # npm yarn
 node_modules
-package.lock
+package-lock.json
 yarn-error.log
 .pnp.*
 .yarn/*
@@ -31,14 +32,19 @@ public
 # cypress
 cypress/videos
 cypress/screenshots
-cypress/downloads
 
 # lerna
 lerna-debug.log
-yarn-error.log
-.editorconfig
-.env
-.env.prod
-.env.stage
-.vscode
-.DS_Store
+
+# local actions
+.actrc
+.secrets
+local-test.yml
+
+# yalc
+.yalc
+yalc.lock
+
+#txt
+linter-output.txt
+linter-report.txt
