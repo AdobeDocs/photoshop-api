@@ -1,4 +1,3 @@
-
 # OS
 .DS_Store
 
@@ -7,6 +6,8 @@
 
 # environment variables
 .env
+.env.prod
+.env.stage
 
 # npm
 node_modules
