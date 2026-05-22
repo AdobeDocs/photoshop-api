@@ -1,40 +1,20 @@
 {
-  "private": true,
-  "name": "dev-site-documentation-template",
+  "name": "dev-docs-template",
   "version": "1.0.0",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdobeDocs/dev-site-documentation-template"
+    "url": "https://github.com/AdobeDocs/dev-docs-template"
   },
   "author": {
     "name": "Tim Kim",
     "url": "https://github.com/timkim"
   },
-  "dependencies": {
-    "@adobe/gatsby-theme-aio": "^4.14.4",
-    "gatsby": "4.22.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  },
   "engines": {
     "node": "^24.11.0"
   },
-  "resolutions": {
-    "sharp": "0.33.0",
-    "gatsby-sharp": "1.12.0"
-  },
   "scripts": {
-    "start": "gatsby build && gatsby serve",
-    "start:prefix": "gatsby build --prefix-paths && gatsby serve --prefix-paths",
     "dev": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils dev",
-    "dev:https": "gatsby develop --https --host localhost.corp.adobe.com --port 9000",
-    "build": "gatsby build",
-    "build:incremental": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test:links": "remark src/pages --quiet --frail",
-    "lint": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils runLint -v",
     "buildNavigation": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils buildNavigation -v",
     "buildRedirections": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils buildRedirections -v",
     "renameFiles": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils renameFiles -v",
@@ -42,15 +22,11 @@
     "buildSiteWideBanner": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils buildSiteWideBanner -v",
     "buildSiteMetadata": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils buildSiteMetadata -v",
     "buildContributors": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils buildContributorsV2 -v",
+    "lint": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils runLint -v",
     "lint:errorOnly": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils runLint",
     "link:externalLinkOnly": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils runLint --external-links-only -v",
     "link:checkAllLinks": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils runLint --internal-links-only --external-links-only -v",
     "redirectCheck:stage": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils redirectChecker stage --verbose",
     "redirectCheck:prod": "npx --yes --prefer-online github:AdobeDocs/adp-devsite-utils redirectChecker prod --verbose"
-  },
-  "remarkConfig": {
-    "plugins": [
-      "remark-validate-links"
-    ]
   }
 }
